@@ -1,0 +1,4457 @@
+[
+ {
+   "id": 1,
+   "Question": "How many senators are in the Australian Parliament?",
+   "Option1": "A: 70",
+   "Option2": "B: 72",
+   "Option3": "C: 74",
+   "Option4": "D: 76",
+   "answer": 4
+ },
+ {
+   "id": 2,
+   "Question": "What do most people in Australia describe themselves as?",
+   "Option1": "A: Indians",
+   "Option2": "B: Buddhists",
+   "Option3": "C: Chirstians",
+   "Option4": "D: Muslims",
+   "answer": 3
+ },
+ {
+   "id": 3,
+   "Question": "Who can propose to introduce a new law or change an existing one?",
+   "Option1": "A: A member of the Australian Parliament",
+   "Option2": "B: Any Australian citizen",
+   "Option3": "C: Only the opposition",
+   "Option4": "D: The Leader of the ruling party only",
+   "answer": 1
+ },
+ {
+   "id": 4,
+   "Question": "What does the Parliament of the Commonwealth of Australia have?",
+   "Option1": "A: A senate",
+   "Option2": "B: The House of Lords",
+   "Option3": "C: The House of Representatives",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 5,
+   "Question": "What happens when you become an Australian citizen?",
+   "Option1": "A: You can go to Austria",
+   "Option2": "B: You can go to Malaysia",
+   "Option3": "C: You can live freely in Australia",
+   "Option4": "D: All of the above",
+   "answer": 3
+ },
+ {
+   "id": 6,
+   "Question": "What happens in a parliamentary democracy?",
+   "Option1": "A: The citizens vote for people who represent them in the Parliament",
+   "Option2": "B: The citizens vote for people who represent them in the Court of Law",
+   "Option3": "C: The citizens vote for people who represent them in the Opera House",
+   "Option4": "D: All of the above",
+   "answer": 1
+ },
+ {
+   "id": 7,
+   "Question": "How are all the government-benefits given to the Australian citizens?",
+   "Option1": "A: By charity money",
+   "Option2": "B: By the money of the politicians",
+   "Option3": "C: By the money collected through taxes",
+   "Option4": "D: All of the above",
+   "answer": 3
+ },
+ {
+   "id": 8,
+   "Question": "Which is the smallest state among mainland states?",
+   "Option1": "A: Queensland",
+   "Option2": "B: Victoria",
+   "Option3": "C: South Australia",
+   "Option4": "D: New South Wales",
+   "answer": 2
+ },
+ {
+   "id": 9,
+   "Question": "What are the colours of the Torres Strait Islander Flag?",
+   "Option1": "A: Green blue black and grey",
+   "Option2": "B: Green blue black and white",
+   "Option3": "C: Green blue black and orange",
+   "Option4": "D: Green. Blue black and green",
+   "answer": 3
+ },
+ {
+   "id": 10,
+   "Question": "What sort of constitution and laws did the colonies have?",
+   "Option1": "A: A different constitution and law for each colony",
+   "Option2": "B: The same constitution and laws for all the colonies",
+   "Option3": "C: The same constitution but different laws relating to defence immigration etc.",
+   "Option4": "D: Different constitution but the same laws relating to defence immigration etc.",
+   "answer": 1
+ },
+ {
+   "id": 11,
+   "Question": "What is the main difference between all the levels of government in Australia?",
+   "Option1": "A: They have different number of people",
+   "Option2": "B: Each level of government provides different services",
+   "Option3": "C: Each level of government provides the same services",
+   "Option4": "D: None of the above",
+   "answer": 2
+ },
+ {
+   "id": 12,
+   "Question": "From which areas did the early free settlers come to Australia?",
+   "Option1": "A: Early free settlers came from Great Britain and Ireland.",
+   "Option2": "B: Early free settlers came from India and Ireland.",
+   "Option3": "C: Early free settlers came from Russia and South Asia.",
+   "Option4": "D: Early free settlers came from America and Ireland.",
+   "answer": 1
+ },
+ {
+   "id": 13,
+   "Question": "What do people do in the citizenship pledge?",
+   "Option1": "A: They pledge their loyalty to the world and its people.",
+   "Option2": "B: They pledge their loyalty to America and its people.",
+   "Option3": "C: They pledge their loyalty to Australia and its people.",
+   "Option4": "D: All of the above",
+   "answer": 3
+ },
+ {
+   "id": 14,
+   "Question": "Which day is the biggest annual public holiday in Australia?",
+   "Option1": "A: Aztec Day",
+   "Option2": "B: Torres Day",
+   "Option3": "C: Australia Day",
+   "Option4": "D: All of the above",
+   "answer": 3
+ },
+ {
+   "id": 15,
+   "Question": "What sort of disagreement do Australians believe in?",
+   "Option1": "A: Violent disagreement",
+   "Option2": "B: Peaceful disagreement",
+   "Option3": "C: Disagreeing all the time",
+   "Option4": "D: They do not believe in disagreement",
+   "answer": 2
+ },
+ {
+   "id": 16,
+   "Question": "What type of violence is illegal in Australia?",
+   "Option1": "A: Physical abuse",
+   "Option2": "B: Verbal abuse",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 17,
+   "Question": "Who gives advice to the Queen in the appointment of her representative in Australia?",
+   "Option1": "A: The Australian Prime Minister",
+   "Option2": "B: The Australian King",
+   "Option3": "C: The Australian Governor-General",
+   "Option4": "D: The Queen does not take advice from anyone",
+   "answer": 4
+ },
+ {
+   "id": 18,
+   "Question": "What does the rule of Law mean?",
+   "Option1": "A: The Aboriginals are above the others",
+   "Option2": "B: No person group or religious rule is above the law",
+   "Option3": "C: All religions are above the law",
+   "Option4": "D: Christanity is above the law",
+   "answer": 4
+ },
+ {
+   "id": 19,
+   "Question": "What is the law for organisations to select candidates?",
+   "Option1": "A: By law they should select the person with the best skills and experience for the job",
+   "Option2": "B: By law they can select anyone they want",
+   "Option3": "C: By law they should give preference to women over men",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 20,
+   "Question": "Which flag is the official flag of Australia?",
+   "Option1": "A: The Australian National Flag",
+   "Option2": "B: The Australian Aboriginal Flag",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 21,
+   "Question": "Who can you ask for help if you are overseas as an Australian citizen?",
+   "Option1": "A: An Australian government official",
+   "Option2": "B: A passerby",
+   "Option3": "C: The embassy of the residing country",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 22,
+   "Question": "Who can apply for children born overseas to become Australian citizens by descent?",
+   "Option1": "A: Only Australian born people",
+   "Option2": "B: People who have ancestors in Australia",
+   "Option3": "C: Australian citizens",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 23,
+   "Question": "Can any Australian citizen who is aged 18 years and over seek election to parliament at the federal state and territory level?",
+   "Option1": "A: Yes everyone can",
+   "Option2": "B: No dual citizens can not",
+   "Option3": "C: Only men can",
+   "Option4": "D: Australian citizens can‚Äôt seek election to parliament",
+   "answer": 4
+ },
+ {
+   "id": 24,
+   "Question": "What is a core Australian value that underpins their democratic system?",
+   "Option1": "A: Freedom of religion",
+   "Option2": "B: Freedom of speech",
+   "Option3": "C: Freedom of movement",
+   "Option4": "D: Freedom of marriage",
+   "answer": 4
+ },
+ {
+   "id": 25,
+   "Question": "What is the Executive Power?",
+   "Option1": "A: The power to make laws",
+   "Option2": "B: The power to break laws",
+   "Option3": "C: The power to put the laws into practice",
+   "Option4": "D: The power to put people in jail even if they follow the laws",
+   "answer": 4
+ },
+ {
+   "id": 26,
+   "Question": "When was the bushfire season in Australia?",
+   "Option1": "A: 2018-2019",
+   "Option2": "B: 2019-2020",
+   "Option3": "C: 2020-2021",
+   "Option4": "D: 2021-2022",
+   "answer": 4
+ },
+ {
+   "id": 27,
+   "Question": "What do the points of the stars represent in the National Flag of Australia?",
+   "Option1": "A: The 6 states",
+   "Option2": "B: One point for the territories",
+   "Option3": "C: None of the above",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 28,
+   "Question": "Under what circumstances can the police arrest people and bring them before the court of law?",
+   "Option1": "A: If they want to",
+   "Option2": "B: If someone has broken the law",
+   "Option3": "C: If someone is suspicious to them",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 29,
+   "Question": "What is the importance of laws for Australians?",
+   "Option1": "A: They recognise the importance of laws in maintaining a peaceful and orderly society",
+   "Option2": "B: They don't agree that there is an importance of laws in maintaining a peaceful and orderly society",
+   "Option3": "C: They are not aware of the importance of laws in maintaining a peaceful and orderly society",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 30,
+   "Question": "Generally how does the Australian government come into power?",
+   "Option1": "A: It is generally formed by the party of coalition of parties which have the majority of members in the House of Lords",
+   "Option2": "B: It is generally formed by the party of coalition of parties which have the majority of members in the Senate",
+   "Option3": "C: Both A and B",
+   "Option4": "D: It is generally formed by the party of coalition of parties which have the majority of members in the House of Representatives",
+   "answer": 4
+ },
+ {
+   "id": 31,
+   "Question": "What powers do the Australian Judges have?",
+   "Option1": "A: The power to interpret law only",
+   "Option2": "B: The power to apply the law only",
+   "Option3": "C: The power to make sure law is being followed",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 32,
+   "Question": "What role do active citizens play in Australian society?",
+   "Option1": "A: They help in doing volunteer work without pay",
+   "Option2": "B: They take on the responsibility and privilege of shaping Australia‚Äôs future",
+   "Option3": "C: They take on the responsibility and privilege of shaping America‚Äôs future",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 33,
+   "Question": "What role did Australia‚Äôs national identity have in people wanting one nation - Australia?",
+   "Option1": "A: They didn‚Äôt want Australia‚Äôs national identity to get lost",
+   "Option2": "B: Australia‚Äôs national identity was slowly being formed",
+   "Option3": "C: None of the above",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 34,
+   "Question": "Who appoints the judges and magistrates?",
+   "Option1": "A: The people",
+   "Option2": "B: The government",
+   "Option3": "C: Both A and B by consensus",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 35,
+   "Question": "What happens during Australia Day celebrations?",
+   "Option1": "A: The coolest Australian of the year award is announced",
+   "Option2": "B: The Australian of the Year Awards is announced",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 36,
+   "Question": "What do Australians value?",
+   "Option1": "A: War",
+   "Option2": "B: Violence",
+   "Option3": "C: Mateship",
+   "Option4": "D: Acquaintanceship",
+   "answer": 4
+ },
+ {
+   "id": 37,
+   "Question": "Why should migrants learn and use English ?",
+   "Option1": "A: To help them participate in Australian Society",
+   "Option2": "B: To help them study abroad",
+   "Option3": "C: To help them in living a wholesome life",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 38,
+   "Question": "What is in the top left corner of the Australian National Flag?",
+   "Option1": "A: The joker",
+   "Option2": "B: The cross",
+   "Option3": "C: Both A and B",
+   "Option4": "D: The Union Jack",
+   "answer": 4
+ },
+ {
+   "id": 39,
+   "Question": "Who is eligible to pay taxes?",
+   "Option1": "A: Job holders business men investment holders etc",
+   "Option2": "B: Housewives",
+   "Option3": "C: Only Entrepreneurs",
+   "Option4": "D: Men who do not work",
+   "answer": 4
+ },
+ {
+   "id": 40,
+   "Question": "If needed who should defend Australia?",
+   "Option1": "A: The military",
+   "Option2": "B: The navy",
+   "Option3": "C: The air force",
+   "Option4": "D: All Australian citizens",
+   "answer": 4
+ },
+ {
+   "id": 41,
+   "Question": "What type of political system does Australia have?",
+   "Option1": "A: Monarchy",
+   "Option2": "B: Democracy",
+   "Option3": "C: Parliamentary democracy",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 42,
+   "Question": "What major issues does the Australian government tackle?",
+   "Option1": "A: Defence",
+   "Option2": "B: Trade and commerce",
+   "Option3": "C: Foreign policy",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 43,
+   "Question": "Which bodies collect taxes apart from the Australian government?",
+   "Option1": "A: State and territory governments and local councils",
+   "Option2": "B: Police",
+   "Option3": "C: Army",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 44,
+   "Question": "What are the responsibilities of the Local government regarding roads?",
+   "Option1": "A: They are responsible only for footpaths bridges and drains",
+   "Option2": "B: They are responsible only for the traffic controls and street lights",
+   "Option3": "C: They are not responsible for anything",
+   "Option4": "D: They are responsible for: street signs traffic controls local roads footpaths bridges and drains.",
+   "answer": 4
+ },
+ {
+   "id": 45,
+   "Question": "What should the people keep in mind while engaging in freedom of speech and freedom of expression?",
+   "Option1": "A: That manners and etiquette are kept in mind",
+   "Option2": "B: That everyone should have a say",
+   "Option3": "C: That the laws of Australia should be obeyed",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 46,
+   "Question": "Who are the people of power that should follow the Australian Law?",
+   "Option1": "A: The government",
+   "Option2": "B: The religious and community leaders",
+   "Option3": "C: Business men",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 47,
+   "Question": "Which level of government is responsible for the postal services and the communications network?",
+   "Option1": "A: The Australian government",
+   "Option2": "B: The local government",
+   "Option3": "C: The provincial government",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 48,
+   "Question": "How do Australians behave towards each other in times of need?",
+   "Option1": "A: They only help family and friends",
+   "Option2": "B: They only help people nearby or whom they know",
+   "Option3": "C: They don‚Äôt help others",
+   "Option4": "D: They help each other in times of need",
+   "answer": 4
+ },
+ {
+   "id": 49,
+   "Question": "What are some of the national institutions that are located in Canberra?",
+   "Option1": "A: Parliament House and the High Court of Asia",
+   "Option2": "B: Parliament House and the High Court of Australia",
+   "Option3": "C: None of the above",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 50,
+   "Question": "When is the Acknowledgement of Country delivered?",
+   "Option1": "A: It is delivered as part of the Welcome and Housekeeping at weddings",
+   "Option2": "B: It is delivered as part of the Welcome and Housekeeping at meetings and events",
+   "Option3": "C: It is delivered as part of the Housekeeping and Housewarming at meetings",
+   "Option4": "D: It can be delivered anywhere",
+   "answer": 4
+ },
+ {
+   "id": 51,
+   "Question": "What sort of racism can not be carried out in Australia?",
+   "Option1": "A: Racism can be carried out if it is against the color of people",
+   "Option2": "B: Racism has no place in Australia",
+   "Option3": "C: Australia is a racist country",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 52,
+   "Question": "How was the problem of the convicts in Britain solved?",
+   "Option1": "A: They decided to transport convicts to the other side of the world: to the new colony of Scotland",
+   "Option2": "B: They decided to transport convicts to the other side of the world: to the new colony of New South Wales",
+   "Option3": "C: They decided to transport convicts to the other side of the world: to the new colony of India",
+   "Option4": "D: They killed them all.",
+   "answer": 4
+ },
+ {
+   "id": 53,
+   "Question": "What separates Tasmania from the mainland?",
+   "Option1": "A: Bass Strait",
+   "Option2": "B: Long Strait",
+   "Option3": "C: Bass Volcano",
+   "Option4": "D: Persian Sea",
+   "answer": 4
+ },
+ {
+   "id": 54,
+   "Question": "Having different constitutions how were the colonies managed?",
+   "Option1": "A: They were managed easily",
+   "Option2": "B: There were many difficulties between the colonies.",
+   "Option3": "C: The colonies did not interact with each other",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 55,
+   "Question": "Which world-famous Reef runs along the eastern coast of the Torres Strait Island?",
+   "Option1": "A: Great Barrier Reef",
+   "Option2": "B: Small Barrier Reef",
+   "Option3": "C: Great Reef",
+   "Option4": "D: Smallest Reef in town",
+   "answer": 4
+ },
+ {
+   "id": 56,
+   "Question": "What advantage does a diverse and prosperous society give to Australia?",
+   "Option1": "A: It enhances Australia‚Äôs connection to Europe",
+   "Option2": "B: It enhances Australia‚Äôs connection to America",
+   "Option3": "C: It enhances Australia‚Äôs connection to the World",
+   "Option4": "D: It enhances Australia‚Äôs connection to Asia",
+   "answer": 4
+ },
+ {
+   "id": 57,
+   "Question": "Who determines the laws in Australia?",
+   "Option1": "A: The President",
+   "Option2": "B: The Parliament",
+   "Option3": "C: The Queen",
+   "Option4": "D: The judges",
+   "answer": 4
+ },
+ {
+   "id": 58,
+   "Question": "What are some of the events in which the National Anthem of Australia is sung?",
+   "Option1": "A: Australian citizenship ceremonies",
+   "Option2": "B: Major sporting events",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 59,
+   "Question": "Which political party does the Governor-General belong to in Australia?",
+   "Option1": "A: The ruling party",
+   "Option2": "B: The opposition",
+   "Option3": "C: He can be either from the ruling or the opposition party",
+   "Option4": "D: He acts independently of any political party",
+   "answer": 4
+ },
+ {
+   "id": 60,
+   "Question": "Is it important for people to form and join associations to pursue common goals?",
+   "Option1": "A: Yes it is their duty as Australians",
+   "Option2": "B: Only native citizens are required to form and join associations to pursue common goals",
+   "Option3": "C: Only people who are of age can form and join associations to pursue common goals",
+   "Option4": "D: People can also decide not to join and cannot be forced into doing so",
+   "answer": 4
+ },
+ {
+   "id": 61,
+   "Question": "What sort of defence system did the separate colonies have?",
+   "Option1": "A: A very strong one",
+   "Option2": "B: A coordinated one",
+   "Option3": "C: A weak one",
+   "Option4": "D: They didn‚Äôt have an army",
+   "answer": 4
+ },
+ {
+   "id": 62,
+   "Question": "Apart from conducting federal elections and referendums what is the responsibility of the AEC?",
+   "Option1": "A: They are responsible for maintaining the commonwealth electoral roll",
+   "Option2": "B: They are responsible for ensuring fair and just job distribution",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 63,
+   "Question": "What should people who serve in the Australian parliament feel?",
+   "Option1": "A: Pressure",
+   "Option2": "B: Honour",
+   "Option3": "C: It is a big responsibility",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 64,
+   "Question": "What is an area of government called?",
+   "Option1": "A: A legislation",
+   "Option2": "B: A portfolio",
+   "Option3": "C: A charade",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 65,
+   "Question": "On what basis should a person get a job?",
+   "Option1": "A: Based on their ethnicity gender and wealth",
+   "Option2": "B: Based on their skills and experience",
+   "Option3": "C: Depends on the job they are applying for",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 66,
+   "Question": "What are some things that men and women can do?",
+   "Option1": "A: They have equal access to education and employment vote at elections and stand for parliament",
+   "Option2": "B: Join the Australian Defence Force and the police force",
+   "Option3": "C: Be treated equally in courts of law",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 67,
+   "Question": "How many states are there in the Commonwealth of Australia?",
+   "Option1": "A: 2",
+   "Option2": "B: 4",
+   "Option3": "C: 6",
+   "Option4": "D: 8",
+   "answer": 4
+ },
+ {
+   "id": 68,
+   "Question": "What is the capital of Tasmania?",
+   "Option1": "A: Melbourne",
+   "Option2": "B: Brisbane",
+   "Option3": "C: Canberra",
+   "Option4": "D: Hobart",
+   "answer": 4
+ },
+ {
+   "id": 69,
+   "Question": "What is the Bill that is signed by the Governor-General called?",
+   "Option1": "A: A Royal Asset",
+   "Option2": "B: A Royal Document",
+   "Option3": "C: A Royal Assent",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 70,
+   "Question": "In Australia can you break the law if no one is watching you?",
+   "Option1": "A: Yes you can break the law as no one is watching",
+   "Option2": "B: You will not be punished if you break the law when no one is watching",
+   "Option3": "C: No you should always follow the law even if no one is watching.",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 71,
+   "Question": "How is the violence against people treated in Australia?",
+   "Option1": "A: It is illegal in Australia and is a very serious crime",
+   "Option2": "B: It is legal in Australia if there is a solid reason for it",
+   "Option3": "C: If you are an Australian citizen you can carry out violence against people under certain situations",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 72,
+   "Question": "In which election is it not compulsory to vote in some states?",
+   "Option1": "A: Territory elections",
+   "Option2": "B: Federal and state elections",
+   "Option3": "C: Local government elections",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 73,
+   "Question": "What does the top half of the Australian Aboriginal Flag represent?",
+   "Option1": "A: The Torres Strait Islander Peoples",
+   "Option2": "B: The Aboriginal People of Aboriginal Land",
+   "Option3": "C: The Aboriginal People of Australia",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 74,
+   "Question": "Generally who delivers the Acknowledgement of Country at meetings and events?",
+   "Option1": "A: The Chair or Master of Ceremonies",
+   "Option2": "B: The opening speaker",
+   "Option3": "C: Both A and B",
+   "Option4": "D: Anyone",
+   "answer": 4
+ },
+ {
+   "id": 75,
+   "Question": "Where are all the powers of the government written?",
+   "Option1": "A: In an unofficial document",
+   "Option2": "B: In the Australian Constitution",
+   "Option3": "C: In the Constitution of Sydney",
+   "Option4": "D: In the Constitution of Melbourne",
+   "answer": 4
+ },
+ {
+   "id": 76,
+   "Question": "What are some of the privileges that will be given to Australian citizens?",
+   "Option1": "A: Apply for work in the Australian Public Service and the Australian Defence Force",
+   "Option2": "B: Apply for an Australian passport and re-enter Australia freely",
+   "Option3": "C: Ask for consular assistance from an Australian official while overseas",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 77,
+   "Question": "After which settlement was Australia made of separate self-governing colonies?",
+   "Option1": "A: American",
+   "Option2": "B: British",
+   "Option3": "C: Australian",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 78,
+   "Question": "What is the capital of South Australia?",
+   "Option1": "A: Canberra",
+   "Option2": "B: Adelaide",
+   "Option3": "C: Sydney",
+   "Option4": "D: New Castle",
+   "answer": 4
+ },
+ {
+   "id": 79,
+   "Question": "Which people of the government can influence the decisions of the AEC?",
+   "Option1": "A: The President of Australia",
+   "Option2": "B: Political parties or people in government cannot influence the decisions of the AEC",
+   "Option3": "C: Political parties or people in government can influence the decisions of the AEC partly",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 80,
+   "Question": "Which level of Government is responsible for social security?",
+   "Option1": "A: Provincial government",
+   "Option2": "B: Local government",
+   "Option3": "C: The Australian government",
+   "Option4": "D: The territory government",
+   "answer": 4
+ },
+ {
+   "id": 81,
+   "Question": "What are the main political parties in Australia?",
+   "Option1": "A: The Party of Australia the Australian Labor Party the Nationals and the Australian Greens.",
+   "Option2": "B: The Liberal Party of Australia the Australian Labor Party the Nationalists and the Australian Greens.",
+   "Option3": "C: The Liberal Party of Australia the Australian Labor Party the Nationals and the Australian Greens.",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 82,
+   "Question": "What are some ways in which you can help others in times of need?",
+   "Option1": "A: By taking a meal to an elderly neighbour driving a friend to a medical appointment or visiting someone who is sick frail or lonely.",
+   "Option2": "B: By paying someone‚Äôs taxes",
+   "Option3": "C: By paying someone‚Äôs health insurance",
+   "Option4": "D: By getting a guilty person out of jail",
+   "answer": 4
+ },
+ {
+   "id": 83,
+   "Question": "Where does the power of the government come from in Australia?",
+   "Option1": "A: The King",
+   "Option2": "B: The President",
+   "Option3": "C: The people of Australia",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 84,
+   "Question": "Under what cases can Australian officials help Australian citizens overseas?",
+   "Option1": "A: Serious illness and death",
+   "Option2": "B: In case of an accident",
+   "Option3": "C: Getting an emergency passport",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 85,
+   "Question": "What does Australia aim to build?",
+   "Option1": "A: A cohesive and unified nation",
+   "Option2": "B: A nation with many different identities",
+   "Option3": "C: None of the above",
+   "Option4": "D: A nation only for immigrants",
+   "answer": 4
+ },
+ {
+   "id": 86,
+   "Question": "What are the representatives in the Parliament answerable to the people for?",
+   "Option1": "A: Their conduct",
+   "Option2": "B: Their decisions",
+   "Option3": "C: Their political career",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 87,
+   "Question": "What should the Australian Parliament keep in mind while making or changing the laws in Australia?",
+   "Option1": "A: Laws should be made or changed to benefit the political parties",
+   "Option2": "B: Laws should be made or changed to benefit the Queen",
+   "Option3": "C: Laws should be made or changed to benefit the overseas Australians",
+   "Option4": "D: Laws should be made or changed to benefit the nation",
+   "answer": 4
+ },
+ {
+   "id": 88,
+   "Question": "Which is Australia‚Äôs second largest state?",
+   "Option1": "A: Sydney",
+   "Option2": "B: Queensland",
+   "Option3": "C: Victoria",
+   "Option4": "D: New South Land",
+   "answer": 4
+ },
+ {
+   "id": 89,
+   "Question": "Who deals with crimes under the state and territory laws?",
+   "Option1": "A: The police force of Australia",
+   "Option2": "B: The police force of the states and the Northern Territory",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 90,
+   "Question": "What is present in the background of the Commonwealth Coat of Arms?",
+   "Option1": "A: A wafer",
+   "Option2": "B: A wattle",
+   "Option3": "C: A window",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 91,
+   "Question": "Who are ‚Äúindependents?‚Äù",
+   "Option1": "A: The parliamentarians who do not belong to any political party",
+   "Option2": "B: The parliamentarians who get elected",
+   "Option3": "C: The parliamentarians who were elected directly by the Queen",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 92,
+   "Question": "Who should know about the laws in Australia?",
+   "Option1": "A: Residents only",
+   "Option2": "B: Natives only",
+   "Option3": "C: Anyone who is in the country",
+   "Option4": "D: People who have ancestors in the country",
+   "answer": 4
+ },
+ {
+   "id": 93,
+   "Question": "Who is the Head of State of Australia?",
+   "Option1": "A: The Queen of Russia",
+   "Option2": "B: The King of Australia",
+   "Option3": "C: The Queen of Australia",
+   "Option4": "D: The King of Russia",
+   "answer": 4
+ },
+ {
+   "id": 94,
+   "Question": "What role does the Queen have in the day-to-day role in government?",
+   "Option1": "A: She plays a vital role",
+   "Option2": "B: She plays a secondary role",
+   "Option3": "C: She does not have a day-to-day role in the government",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 95,
+   "Question": "Legally who are you supposed to tell who you voted for?",
+   "Option1": "A: Your parents",
+   "Option2": "B: Your friends Your friends",
+   "Option3": "C: Your neighbours",
+   "Option4": "D: No one",
+   "answer": 4
+ },
+ {
+   "id": 96,
+   "Question": "Which departments are the Ministers responsible for?",
+   "Option1": "A: The government departments",
+   "Option2": "B: The local departments",
+   "Option3": "C: The private departments",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 97,
+   "Question": "How much authority does the Australian Government have over the self-governing territory laws?",
+   "Option1": "A: It can pass new laws only",
+   "Option2": "B: It can alter or revoke a law anytime",
+   "Option3": "C: It needs permission to revoke or alter laws",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 98,
+   "Question": "What is equal opportunity called in Australia?",
+   "Option1": "A: Fairly go",
+   "Option2": "B: Fairer go",
+   "Option3": "C: Fair opportunities",
+   "Option4": "D: Fair go",
+   "answer": 4
+ },
+ {
+   "id": 99,
+   "Question": "In which states and territories is Australia Day a public holiday?",
+   "Option1": "A: North Australia",
+   "Option2": "B: South Australia",
+   "Option3": "C: Canberra",
+   "Option4": "D: All the states and territories",
+   "answer": 4
+ },
+ {
+   "id": 100,
+   "Question": "Who makes up the Parliament?",
+   "Option1": "A: The representatives who were elected by the people of Australia",
+   "Option2": "B: The representatives who were selected by the President",
+   "Option3": "C: The representatives who paid the highest amount of taxes",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 101,
+   "Question": "What is the status of religious laws in Australia?",
+   "Option1": "A: They have no legal status in Australia",
+   "Option2": "B: They are the law in Australia",
+   "Option3": "C: They are a small part of the legal system in Australia",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 102,
+   "Question": "What is the Senate also known as?",
+   "Option1": "A: The Upper House",
+   "Option2": "B: The Lower House",
+   "Option3": "C: The House of Review",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 103,
+   "Question": "What is the right to form and join associations to pursue common goals known as?",
+   "Option1": "A: Freedom of speech",
+   "Option2": "B: Freedom of association",
+   "Option3": "C: Freedom of expression",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 104,
+   "Question": "What sort of freedom does television radios and newspapers have?",
+   "Option1": "A: Freedom of religion",
+   "Option2": "B: Freedom of association",
+   "Option3": "C: Both A and B",
+   "Option4": "D: Freedom of speech",
+   "answer": 4
+ },
+ {
+   "id": 105,
+   "Question": "What should all Australian citizens commit to do?",
+   "Option1": "A: Stay out of the way of war if one occurs",
+   "Option2": "B: Join together to defend the nation and its way of life if necessary",
+   "Option3": "C: Commit to stay out of harm's way is the need arise",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 106,
+   "Question": "Which organisation works to ensure that all citizens are aware of their tax rights and obligations?",
+   "Option1": "A: MTO",
+   "Option2": "B: ATO",
+   "Option3": "C: BTO",
+   "Option4": "D: STO",
+   "answer": 4
+ },
+ {
+   "id": 107,
+   "Question": "Which special ceremonies take place across Australia on Australia Day?",
+   "Option1": "A: Marriages",
+   "Option2": "B: Oaths",
+   "Option3": "C: Special citizenship ceremonies",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 108,
+   "Question": "Why are the Queen‚Äôs powers delegated to the Governor-General in Australia?",
+   "Option1": "A: Because she is very busy",
+   "Option2": "B: Because she does not live in Australia",
+   "Option3": "C: Because she is not much capable",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 109,
+   "Question": "If the person who commits domestic or family crimes is a woman what happens?",
+   "Option1": "A: A woman does not go to jail",
+   "Option2": "B: Only a man who carries out domestic or family crimes goes to jail",
+   "Option3": "C: A person who commits these crimes can go to jail whether they are a man or a woman",
+   "Option4": "D: It depends on the situation",
+   "answer": 4
+ },
+ {
+   "id": 110,
+   "Question": "How many MP‚Äôs does each state and territory need?",
+   "Option1": "A: It depends on the number of people in that state or territory",
+   "Option2": "B: Every state can have only 23 MP‚Äôs",
+   "Option3": "C: Every state can have only 2 MP‚Äôs",
+   "Option4": "D: Every state can have 100 MP‚Äôs",
+   "answer": 4
+ },
+ {
+   "id": 111,
+   "Question": "Which House of the Australian Parliament is also called the States‚Äô House?",
+   "Option1": "A: The Senate",
+   "Option2": "B: The House of Representatives",
+   "Option3": "C: The House of Lord‚Äôs",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 112,
+   "Question": "What privilege does the Australian government give to the citizens in case of voting?",
+   "Option1": "A: They can vote in only the federal elections",
+   "Option2": "B: They can vote in the federal and state or territory elections",
+   "Option3": "C: They can vote in a referendum",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 113,
+   "Question": "When did the major chunk of non-British migrants come to Australia?",
+   "Option1": "A: After the World War I",
+   "Option2": "B: After the World War II",
+   "Option3": "C: After the Industrial Revolution",
+   "Option4": "D: After the Dark Ages",
+   "answer": 4
+ },
+ {
+   "id": 114,
+   "Question": "What does the official symbol of the Commonwealth of Australia identify?",
+   "Option1": "A: The authority and property of the Commonwealth of Australia",
+   "Option2": "B: The authority of the government of the Commonwealth of Australia",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 115,
+   "Question": "Which legend tells about the colours of the opal?",
+   "Option1": "A: American",
+   "Option2": "B: Aboriginal",
+   "Option3": "C: Folk lore",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 116,
+   "Question": "How do courts decide who is innocent and who is not?",
+   "Option1": "A: They see them doing the crime",
+   "Option2": "B: They believe what the lawyers say",
+   "Option3": "C: They decide on the basis of evidence",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 117,
+   "Question": "What happened 10 years after the gold rush?",
+   "Option1": "A: Chinese took over the economy",
+   "Option2": "B: All the gold finished",
+   "Option3": "C: Australia‚Äôs population more than doubled",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 118,
+   "Question": "How many points does the Commonwealth star have?",
+   "Option1": "A: 4",
+   "Option2": "B: 5",
+   "Option3": "C: 6",
+   "Option4": "D: 7",
+   "answer": 4
+ },
+ {
+   "id": 119,
+   "Question": "Who can apply for an Australian Passport?",
+   "Option1": "A: Anyone coming to Australia",
+   "Option2": "B: Students who have settled in Australia",
+   "Option3": "C: People who have come to Australia more than 10 times in the past.",
+   "Option4": "D: New Australian Citizens can apply for an Australian Passport",
+   "answer": 4
+ },
+ {
+   "id": 120,
+   "Question": "Who is the current Head of State of Australia?",
+   "Option1": "A: Her Majesty Queen Elizabeth I",
+   "Option2": "B: Her Majesty Queen Elizabeth II",
+   "Option3": "C: Her Majesty Queen Elizabeth III",
+   "Option4": "D: Her Majesty Queen Victoria III",
+   "answer": 4
+ },
+ {
+   "id": 121,
+   "Question": "Who was the first Governor of the colony of New South Wales?",
+   "Option1": "A: Captain Hardy",
+   "Option2": "B: Captain Arthur Junior",
+   "Option3": "C: Captain Arthur Phillip",
+   "Option4": "D: No one there was monarchy",
+   "answer": 4
+ },
+ {
+   "id": 122,
+   "Question": "What happens when an Australian citizen travels overseas?",
+   "Option1": "A: They need to apply for a visa before re-entry",
+   "Option2": "B: They are free to return to Australia without the need for a visa",
+   "Option3": "C: Depending on how long their stay was a visa might or might not be required.",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 123,
+   "Question": "Apart from maintaining peace and order in the community what do the police do?",
+   "Option1": "A: They protect life and property",
+   "Option2": "B: They ensure the sewerage system is fine",
+   "Option3": "C: They ensure child labor does not happen",
+   "Option4": "D: They ensure jobs are distributed properly",
+   "answer": 4
+ },
+ {
+   "id": 124,
+   "Question": "Which part of Western Australia is a wine-growing and agricultural area?",
+   "Option1": "A: All of the state",
+   "Option2": "B: North-east of the state",
+   "Option3": "C: South-west of the state",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 125,
+   "Question": "What is the golden wattle?",
+   "Option1": "A: Australia‚Äôs national food",
+   "Option2": "B: Australia‚Äôs national animal",
+   "Option3": "C: Both A and B",
+   "Option4": "D: Australia‚Äôs national flower",
+   "answer": 4
+ },
+ {
+   "id": 126,
+   "Question": "How should babies and young children travel in a car?",
+   "Option1": "A: They must be in any car seat",
+   "Option2": "B: They must be in an approved car seat",
+   "Option3": "C: They must be in the lap of an elder person",
+   "Option4": "D: They cannot travel in a car",
+   "answer": 4
+ },
+ {
+   "id": 127,
+   "Question": "What is joining any legal organisation known as?",
+   "Option1": "A: Freedom of association",
+   "Option2": "B: Freedom of speech",
+   "Option3": "C: Freedom of expression",
+   "Option4": "D: Freedom of religion",
+   "answer": 4
+ },
+ {
+   "id": 128,
+   "Question": "Where should Australian laws be followed?",
+   "Option1": "A: Only in Australia",
+   "Option2": "B: Some Australian laws must also be followed by Australian citizens even when they are overseas",
+   "Option3": "C: Australian laws should be followed worldwide",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 129,
+   "Question": "Why is the Union Jack present in the National Flag of Australia?",
+   "Option1": "A: It shows Australia‚Äôs commitment and loyalty to the World",
+   "Option2": "B: It shows Australia‚Äôs commitment and loyalty to Britain",
+   "Option3": "C: It represents Australia‚Äôs history of British settlement and the laws they inherited as a result",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 130,
+   "Question": "How does the Australian Government ensure one person or a group of people don‚Äôt hold the entire power of government?",
+   "Option1": "A: By holding elections every year",
+   "Option2": "B: By asking the common man to participate in the elections as candidates",
+   "Option3": "C: By dividing the power of the government",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 131,
+   "Question": "What type of government does Australia have?",
+   "Option1": "A: An unstable one",
+   "Option2": "B: A stable one",
+   "Option3": "C: Depends on the circumstances",
+   "Option4": "D: It does not have a government",
+   "answer": 4
+ },
+ {
+   "id": 132,
+   "Question": "How can an Australian citizen support the government to provide important services to the Australian community?",
+   "Option1": "A: By working",
+   "Option2": "B: By paying taxes",
+   "Option3": "C: None of the above",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 133,
+   "Question": "What role does the jury play?",
+   "Option1": "A: It decides the penalty",
+   "Option2": "B: It decides which day the case will have its next hearing",
+   "Option3": "C: It decides who will be deported",
+   "Option4": "D: It decides if a person is innocent or guilty",
+   "answer": 4
+ },
+ {
+   "id": 134,
+   "Question": "What are the Aboriginal and Torres Strait Islander people famous for?",
+   "Option1": "A: They have the oldest continuous cultures and traditions in Australia",
+   "Option2": "B: They have the oldest continuous cultures and traditions in America",
+   "Option3": "C: Both A and B",
+   "Option4": "D: They have the oldest continuous cultures and traditions in the world.",
+   "answer": 4
+ },
+ {
+   "id": 135,
+   "Question": "What comes under social security?",
+   "Option1": "A: Family support",
+   "Option2": "B: Pension",
+   "Option3": "C: Both A and B",
+   "Option4": "D: Only pension for the eldery.",
+   "answer": 4
+ },
+ {
+   "id": 136,
+   "Question": "What is Australian citizenship all about?",
+   "Option1": "A: Living out the values of America in your everyday life and in your local community",
+   "Option2": "B: Living out the values of the world in your everyday life and in your local community",
+   "Option3": "C: Living out the Australian values in your everyday life and in your local community",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 137,
+   "Question": "Which institution has the ultimate power to apply and interpret the laws of Australia?",
+   "Option1": "A: The Government",
+   "Option2": "B: The High Court of Australia",
+   "Option3": "C: The President House",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 138,
+   "Question": "Where do the Torres Strait Islands lie?",
+   "Option1": "A: South of the NSW state",
+   "Option2": "B: West of the Victoria state",
+   "Option3": "C: North of the Queensland state",
+   "Option4": "D: East of the Tasmania state",
+   "answer": 4
+ },
+ {
+   "id": 139,
+   "Question": "Which areas have their own police force?",
+   "Option1": "A: The States",
+   "Option2": "B: The Northern Territory",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 140,
+   "Question": "Who is required by law to wear a seatbelt?",
+   "Option1": "A: The driver",
+   "Option2": "B: The driver and the person on the passenger‚Äôs seat",
+   "Option3": "C: Everyone travelling in a car",
+   "Option4": "D: Only A and B",
+   "answer": 4
+ },
+ {
+   "id": 141,
+   "Question": "What heritage does Australia have?",
+   "Option1": "A: African-American",
+   "Option2": "B: Judaeo-Christian",
+   "Option3": "C: Islamic-Christian",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 142,
+   "Question": "When is Anzac Day commemorated?",
+   "Option1": "A: On 25th April",
+   "Option2": "B: On 26th April",
+   "Option3": "C: On 27th April",
+   "Option4": "D: On 28th April",
+   "answer": 4
+ },
+ {
+   "id": 143,
+   "Question": "When did the ‚Äúgold rush‚Äù happen?",
+   "Option1": "A: 1800",
+   "Option2": "B: 1851",
+   "Option3": "C: 1860",
+   "Option4": "D: 1870",
+   "answer": 4
+ },
+ {
+   "id": 144,
+   "Question": "What did the Australian Constitution establish?",
+   "Option1": "A: The Parliament of the Commonwealth of Australia",
+   "Option2": "B: The Parliament of Australia",
+   "Option3": "C: The Parliament of the Commonwealth of Asia",
+   "Option4": "D: The Parliament of the Commonwealth of America",
+   "answer": 4
+ },
+ {
+   "id": 145,
+   "Question": "How can people express their views?",
+   "Option1": "A: Through art",
+   "Option2": "B: Through film and music",
+   "Option3": "C: Through literature",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 146,
+   "Question": "What does the Australian Constitution do?",
+   "Option1": "A: It sets out rules and regulations for the youth of the nation",
+   "Option2": "B: It sets out the basic rules for the people of Australia",
+   "Option3": "C: It sets out the basic rules for the government of Australia",
+   "Option4": "D: It sets out the basic rules for non-Australian citizens",
+   "answer": 4
+ },
+ {
+   "id": 147,
+   "Question": "What happens if the jury finds a person guilty in a criminal trial?",
+   "Option1": "A: The Jury decided the punishment",
+   "Option2": "B: The lawyers decide the punishment",
+   "Option3": "C: The judge decides the penalty",
+   "Option4": "D: The victim is hanged",
+   "answer": 4
+ },
+ {
+   "id": 148,
+   "Question": "Who can serve on the jury?",
+   "Option1": "A: Australian citizens who have ancestors in the country",
+   "Option2": "B: Any person who is 16 and above",
+   "Option3": "C: Australian citizens who are on the electoral roll",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 149,
+   "Question": "Why did people want a single nation for Australia?",
+   "Option1": "A: They wanted one united country",
+   "Option2": "B: They wanted to show the world they were one",
+   "Option3": "C: There were many problems in having separate colonies like expensive trade weak defense systems etc.",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 150,
+   "Question": "Where is the Australian Capital Territory located?",
+   "Option1": "A: Between Sydney and Austria",
+   "Option2": "B: Between Melbourne and Perth",
+   "Option3": "C: Between Sydney and Melbourne",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 151,
+   "Question": "What are the national colours of Australia?",
+   "Option1": "A: Green",
+   "Option2": "B: Gold",
+   "Option3": "C: Both A and B",
+   "Option4": "D: Red",
+   "answer": 4
+ },
+ {
+   "id": 152,
+   "Question": "What is the capital of Western Australia?",
+   "Option1": "A: Brisbane",
+   "Option2": "B: New Castle",
+   "Option3": "C: Canberra",
+   "Option4": "D: Perth",
+   "answer": 4
+ },
+ {
+   "id": 153,
+   "Question": "Why are Australians allowed to peacefully protest against the actions of the government?",
+   "Option1": "A: Because tolerance of peaceful public protest is an essential part of monarchy",
+   "Option2": "B: Because tolerance of peaceful public protest is an essential part of democracy",
+   "Option3": "C: because tolerance of peaceful public protest is an essential part of martial law",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 154,
+   "Question": "When did the European settlement start in Australia?",
+   "Option1": "A: 12 june 1770",
+   "Option2": "B: 22 November 1780",
+   "Option3": "C: 26 January 1788",
+   "Option4": "D: 16 March 1790",
+   "answer": 4
+ },
+ {
+   "id": 155,
+   "Question": "What is the colour of the Commonwealth Star that sits above the shield?",
+   "Option1": "A: Orange",
+   "Option2": "B: Yellow",
+   "Option3": "C: Maroon",
+   "Option4": "D: Golden",
+   "answer": 4
+ },
+ {
+   "id": 156,
+   "Question": "How were British migrants encouraged to settle in Australia?",
+   "Option1": "A: Through giving them property",
+   "Option2": "B: Through different programs",
+   "Option3": "C: By giving them money and gold",
+   "Option4": "D: By giving them free food",
+   "answer": 4
+ },
+ {
+   "id": 157,
+   "Question": "What is the role of courts in society?",
+   "Option1": "A: They decide who is a minor criminal only",
+   "Option2": "B: They decide if a person has or has not broken the law",
+   "Option3": "C: They decide the penalty of the person who has broken the law",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 158,
+   "Question": "What does the yellow circle in the middle of the Australian Aboriginal Flag represent?",
+   "Option1": "A: The moon",
+   "Option2": "B: The ocean",
+   "Option3": "C: The sun",
+   "Option4": "D: The rainbow",
+   "answer": 4
+ },
+ {
+   "id": 159,
+   "Question": "Who announces the Australian of the Year Awards?",
+   "Option1": "A: The President",
+   "Option2": "B: The Prime Minister",
+   "Option3": "C: The Monarch",
+   "Option4": "D: Through democracy",
+   "answer": 4
+ },
+ {
+   "id": 160,
+   "Question": "On which Christian days does Australia have public holidays?",
+   "Option1": "A: Good Friday",
+   "Option2": "B: Easter Sunday",
+   "Option3": "C: Christmas Day",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 161,
+   "Question": "How are all Australians expected to treat each other?",
+   "Option1": "A: Treatment should be according to the race gender and marital status of the people",
+   "Option2": "B: Equal treatment should be given to everyone",
+   "Option3": "C: Wealthy people should be treated better than the rest",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 162,
+   "Question": "Members of which community collected donations at shopping centres and fundraisers?",
+   "Option1": "A: Sikh",
+   "Option2": "B: Muslim",
+   "Option3": "C: Chinese Vietnamese and Cambodian",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 163,
+   "Question": "What do you need to have before driving a car in Australia?",
+   "Option1": "A: A local driver‚Äôs licence and a registered car",
+   "Option2": "B: You should be above 22 years to drive a car",
+   "Option3": "C: You should have your own car",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 164,
+   "Question": "What is the national gemstone of Australia?",
+   "Option1": "A: The quartz",
+   "Option2": "B: The opal",
+   "Option3": "C: The sapphire",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 165,
+   "Question": "Who can be called to serve on a jury anytime?",
+   "Option1": "A: The judge",
+   "Option2": "B: The barrister",
+   "Option3": "C: Any Australian citizen",
+   "Option4": "D: An army official",
+   "answer": 4
+ },
+ {
+   "id": 166,
+   "Question": "What kind of relationship does the police and the community have in Australia?",
+   "Option1": "A: A constraint one",
+   "Option2": "B: A good one",
+   "Option3": "C: A difficult one",
+   "Option4": "D: They don‚Äôt have any relationship",
+   "answer": 4
+ },
+ {
+   "id": 167,
+   "Question": "Who can Australian citizens contact if they want to raise concerns about government policy?",
+   "Option1": "A: Their area head",
+   "Option2": "B: Their friends",
+   "Option3": "C: The President",
+   "Option4": "D: Their elected representatives",
+   "answer": 4
+ },
+ {
+   "id": 168,
+   "Question": "What sort of behaviour comes under domestic or family violence?",
+   "Option1": "A: Threats to control a partner",
+   "Option2": "B: Causing fear or threatening the safety of your partner",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 169,
+   "Question": "Is religion and religious activities above the laws of Australia?",
+   "Option1": "A: No they are not",
+   "Option2": "B: Yes they are",
+   "Option3": "C: Depends on the situation",
+   "Option4": "D: They can be broken",
+   "answer": 4
+ },
+ {
+   "id": 170,
+   "Question": "Where is the blue panel present on the Torres Strait Islander Flag?",
+   "Option1": "A: On the top right side",
+   "Option2": "B: On the bottom left side",
+   "Option3": "C: On both sides of the flag",
+   "Option4": "D: In the centre of the flag",
+   "answer": 4
+ },
+ {
+   "id": 171,
+   "Question": "Which Star is under the Union Jack on the National Flag of Australia?",
+   "Option1": "A: The French Star",
+   "Option2": "B: The Commonwealth Star",
+   "Option3": "C: The Australian Star",
+   "Option4": "D: The Union Jack Star",
+   "answer": 4
+ },
+ {
+   "id": 172,
+   "Question": "Members of which community donated bottles of water to communities and firefighters in Queensland?",
+   "Option1": "A: Sikh",
+   "Option2": "B: Muslim",
+   "Option3": "C: Chinese",
+   "Option4": "D: Vietnamese",
+   "answer": 4
+ },
+ {
+   "id": 173,
+   "Question": "What was the federation of states called when the colonies were united?",
+   "Option1": "A: Australia",
+   "Option2": "B: Commonwealth of Australia",
+   "Option3": "C: Common Australia",
+   "Option4": "D: Wealth of Australia",
+   "answer": 4
+ },
+ {
+   "id": 174,
+   "Question": "Why are the fine buildings in Victoria famous?",
+   "Option1": "A: They were built from the loot from pirates",
+   "Option2": "B: They were built by war prisoners",
+   "Option3": "C: They were built all by hand",
+   "Option4": "D: They were built from the wealth accumulated during the gold rush",
+   "answer": 4
+ },
+ {
+   "id": 175,
+   "Question": "What else does the Welcome to Country show?",
+   "Option1": "A: Pay respect to the government of Australia",
+   "Option2": "B: Pay respect to the Queen of England",
+   "Option3": "C: Pay respect to Aboriginal and Torres Strait Islanders",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 176,
+   "Question": "What are the councils in various areas responsible for?",
+   "Option1": "A: To keep the population in check",
+   "Option2": "B: To control the rising crime rate",
+   "Option3": "C: To maintain law and order in the State",
+   "Option4": "D: To plan and deliver services to the local community",
+   "answer": 4
+ },
+ {
+   "id": 177,
+   "Question": "How can citizens have a say on how Australia is governed?",
+   "Option1": "A: By voting for a person to represent them in parliament",
+   "Option2": "B: By running for elections",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 178,
+   "Question": "The role and responsibilities of the Administrator are similar to who?",
+   "Option1": "A: The Prime Minister",
+   "Option2": "B: The Queen",
+   "Option3": "C: The senator",
+   "Option4": "D: State of Governor",
+   "answer": 4
+ },
+ {
+   "id": 179,
+   "Question": "Who is the Prime Minister?",
+   "Option1": "A: The Head of State",
+   "Option2": "B: The leader of the Australian Government",
+   "Option3": "C: The Queen‚Äôs special man",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 180,
+   "Question": "What does a Parliamentary democracy show?",
+   "Option1": "A: It shows that there is a lot of involvement of the Australian citizens in how the country is governed",
+   "Option2": "B: It shows that there is no involvement of the Australian citizens in how the country is governed",
+   "Option3": "C: It shows that the country is solely run by the Queen",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 181,
+   "Question": "What is the law regarding marriage in Australia?",
+   "Option1": "A: A man and woman can not marry irrespective of their religion",
+   "Option2": "B: Inter-caste marriages are not allowed between men and women",
+   "Option3": "C: Two people can marry each other including marriage between two men or two women.",
+   "Option4": "D: Only men and women can marry",
+   "answer": 4
+ },
+ {
+   "id": 182,
+   "Question": "How do states and territories make their laws?",
+   "Option1": "A: They don't have separate laws",
+   "Option2": "B: They make their own laws according to their will",
+   "Option3": "C: They make their own laws in a way similar to the Australian laws",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 183,
+   "Question": "In Australia what is the leader of a local government called?",
+   "Option1": "A: A Shire President",
+   "Option2": "B: The President",
+   "Option3": "C: A Mayor",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 184,
+   "Question": "What is South Australia famous for?",
+   "Option1": "A: Mining regions",
+   "Option2": "B: Agricultural regions",
+   "Option3": "C: Wine regions",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 185,
+   "Question": "What is a Welcome to Country?",
+   "Option1": "A: An oath that new citizens take to become Australians",
+   "Option2": "B: A pledge that new citizens make to become Australians",
+   "Option3": "C: A political practice performed by an Aboriginal or Torres Strait Islander custodian of the local region welcoming visitors to their traditional land",
+   "Option4": "D: A cultural practice performed by an Aboriginal or Torres Strait Islander custodian of the local region welcoming visitors to their traditional land",
+   "answer": 4
+ },
+ {
+   "id": 186,
+   "Question": "Who is above the other under the Australian Law?",
+   "Option1": "A: Native Australians",
+   "Option2": "B: Citizens of Australia",
+   "Option3": "C: No one all Australians are equal under the law",
+   "Option4": "D: Aboriginals are above all others",
+   "answer": 4
+ },
+ {
+   "id": 187,
+   "Question": "Which city in South Australia has examples of fine colonial architecture?",
+   "Option1": "A: Perth",
+   "Option2": "B: Canberra",
+   "Option3": "C: Adelaide",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 188,
+   "Question": "Food and meat inspection noise and animal control rubbish collection etc. are the duties of which government?",
+   "Option1": "A: Local government",
+   "Option2": "B: Federal government",
+   "Option3": "C: Provincial government",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 189,
+   "Question": "Which government controls the road and traffic rules?",
+   "Option1": "A: The state government",
+   "Option2": "B: The territory government",
+   "Option3": "C: The local government",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 190,
+   "Question": "What are the colours of the Australian Aboriginal Flag?",
+   "Option1": "A: Black white and red",
+   "Option2": "B: Red yellow and white",
+   "Option3": "C: Red orange and yellow",
+   "Option4": "D: Black red and yellow",
+   "answer": 4
+ },
+ {
+   "id": 191,
+   "Question": "What type of traffic laws are there in Australia?",
+   "Option1": "A: Lenient ones",
+   "Option2": "B: Very strict ones",
+   "Option3": "C: Depends on the flow of traffic",
+   "Option4": "D: Depends on the area and its laws",
+   "answer": 4
+ },
+ {
+   "id": 192,
+   "Question": "What is the national language of Australia?",
+   "Option1": "A: English",
+   "Option2": "B: French",
+   "Option3": "C: Spanish",
+   "Option4": "D: Australian",
+   "answer": 4
+ },
+ {
+   "id": 193,
+   "Question": "What does each state and territory of Australia have?",
+   "Option1": "A: Their own embroidered emblem",
+   "Option2": "B: Their own green emblem",
+   "Option3": "C: Their own floral emblem",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 194,
+   "Question": "Once the government collects taxes what are they spent on?",
+   "Option1": "A: Government-funded healthcare education social security defence and roads and infrastructure",
+   "Option2": "B: Government-funded healthcare education social security defence and driving test fee",
+   "Option3": "C: Government-funded healthcare and education and pay given to women during maternity leave",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 195,
+   "Question": "What is the capital of Victoria?",
+   "Option1": "A: Perth",
+   "Option2": "B: Melbourne",
+   "Option3": "C: Canberra",
+   "Option4": "D: New Castle",
+   "answer": 4
+ },
+ {
+   "id": 196,
+   "Question": "Under what circumstances is it illegal to drive?",
+   "Option1": "A: If you have taken drugs",
+   "Option2": "B: If you are above the blood alcohol limit",
+   "Option3": "C: When driving at night or in a bad weather",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 197,
+   "Question": "What majority of voters should vote for a change to occur?",
+   "Option1": "A: The majority of voters across the states",
+   "Option2": "B: The majority of voters across the nation",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 198,
+   "Question": "What are government ministers responsible for?",
+   "Option1": "A: The entire government",
+   "Option2": "B: An area of government",
+   "Option3": "C: Only the areas allotted to them by the Prime Minister",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 199,
+   "Question": "Which country‚Äôs laws should you obey being an Australian citizen?",
+   "Option1": "A: Australian laws and the laws of the country you are currently in",
+   "Option2": "B: Laws of the country you are currently in",
+   "Option3": "C: Only Australian Law",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 200,
+   "Question": "Who has the power to make and change the laws in Australia?",
+   "Option1": "A: Legislation",
+   "Option2": "B: Parliament",
+   "Option3": "C: President",
+   "Option4": "D: Prime Minister",
+   "answer": 4
+ },
+ {
+   "id": 201,
+   "Question": "What is Australia divided into?",
+   "Option1": "A: Different countries",
+   "Option2": "B: Federal electorates",
+   "Option3": "C: Commercial electorates",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 202,
+   "Question": "Who mostly wears uniforms of the national colours of Australia?",
+   "Option1": "A: Students",
+   "Option2": "B: Politicians",
+   "Option3": "C: National sports teams",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 203,
+   "Question": "Which is the smallest state of Australia?",
+   "Option1": "A: Perth",
+   "Option2": "B: Queensland",
+   "Option3": "C: Both A and B are small",
+   "Option4": "D: Tasmania",
+   "answer": 4
+ },
+ {
+   "id": 204,
+   "Question": "What does the group of stars on the right represent in the National Flag of Australia?",
+   "Option1": "A: The Southern Cross",
+   "Option2": "B: The Western Cross",
+   "Option3": "C: The Night Sky",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 205,
+   "Question": "What rights do men have over women in Australia?",
+   "Option1": "A: They have equal rights",
+   "Option2": "B: Men have more rights",
+   "Option3": "C: Women have more rights",
+   "Option4": "D: Who has more rights depends on the situation",
+   "answer": 4
+ },
+ {
+   "id": 206,
+   "Question": "What are some of the icons of Western Australia?",
+   "Option1": "A: Ningaloo Coast",
+   "Option2": "B: Margaret River",
+   "Option3": "C: Kimberley region",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 207,
+   "Question": "Does Australia give any privileges to the Australian citizens?",
+   "Option1": "A: Yes",
+   "Option2": "B: No",
+   "Option3": "C: Depends on the situation",
+   "Option4": "D: Depends on the government",
+   "answer": 4
+ },
+ {
+   "id": 208,
+   "Question": "What role does the Governor-General have in the government of Australia?",
+   "Option1": "A: The Governor-General is part of the government",
+   "Option2": "B: The Governor-General is not part of the government but can take sides",
+   "Option3": "C: The Governor-General is not part of the government and must remain neutral",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 209,
+   "Question": "What significance does the bottom half of the Australian Aboriginal Flag have?",
+   "Option1": "A: It has political significance",
+   "Option2": "B: It has ceremonial significance",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 210,
+   "Question": "What do the House of Representatives and the Senate do when they are presented with a ‚ÄúBill‚Äù?",
+   "Option1": "A: The approve it right away",
+   "Option2": "B: They make it a law after consideration",
+   "Option3": "C: They debate and vote on whether they agree with the Bill.",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 211,
+   "Question": "What does the law say for people who hold positions of power in the Australian community?",
+   "Option1": "A: Even they must obey the law",
+   "Option2": "B: They must not obey the law",
+   "Option3": "C: They are not legally bound by the law",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 212,
+   "Question": "Which government operates separately from churches and other religious entities?",
+   "Option1": "A: Secular",
+   "Option2": "B: Non-secular",
+   "Option3": "C: Monarchs",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 213,
+   "Question": "What does legend say about the colours of the opal?",
+   "Option1": "A: They are amazing",
+   "Option2": "B: Santa Clause created the colours of the opal",
+   "Option3": "C: A rainbow touched the earth and created the colours of the opal",
+   "Option4": "D: A rainbow touched the earth and created the colours of the turquoise",
+   "answer": 4
+ },
+ {
+   "id": 214,
+   "Question": "Can people express any idea they want in Australia?",
+   "Option1": "A: Yes they can say anything they want to",
+   "Option2": "B: No they can‚Äôt express any idea",
+   "Option3": "C: Yes they can express their ideas freely as long as it is within the law",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 215,
+   "Question": "What does Tasmania have in abundance?",
+   "Option1": "A: Islands",
+   "Option2": "B: Unkept wilderness",
+   "Option3": "C: Unspoilt wilderness landscapes",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 216,
+   "Question": "Who has the power to pass laws in their own right?",
+   "Option1": "A: The Territories",
+   "Option2": "B: The country",
+   "Option3": "C: States",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 217,
+   "Question": "In Australia what is an elected member of the local council called?",
+   "Option1": "A: The Mayor",
+   "Option2": "B: The Councillor",
+   "Option3": "C: The Major",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 218,
+   "Question": "What does a political party work together for?",
+   "Option1": "A: To have the party‚Äôs ideas turn into laws",
+   "Option2": "B: To ensure they always win the elections",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 219,
+   "Question": "Why do people come over to Australia?",
+   "Option1": "A: To start a new life",
+   "Option2": "B: To escape poverty war or persecution",
+   "Option3": "C: To join their family",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 220,
+   "Question": "What does the shield in the centre of the Commonwealth Coat of Arms represent?",
+   "Option1": "A: The 5 states and federation",
+   "Option2": "B: The 6 states and federation",
+   "Option3": "C: The 7 states and federation",
+   "Option4": "D: The 8 states and federation",
+   "answer": 4
+ },
+ {
+   "id": 221,
+   "Question": "How can active citizens make Australian society better?",
+   "Option1": "A: By joining arts or cultural organisations",
+   "Option2": "B: By doing volunteer work",
+   "Option3": "C: By joining neighbourhood and local community organisations",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 222,
+   "Question": "Who has a responsibility to try and support themselves and their families when they are able to do so?",
+   "Option1": "A: Housewives",
+   "Option2": "B: Everyone",
+   "Option3": "C: Men",
+   "Option4": "D: Women",
+   "answer": 4
+ },
+ {
+   "id": 223,
+   "Question": "What happens if you do not vote in an election and do not have a good reason for not voting?",
+   "Option1": "A: You can go to jail",
+   "Option2": "B: You may have to pay a fine",
+   "Option3": "C: You may have to stand in the next election",
+   "Option4": "D: A and D",
+   "answer": 4
+ },
+ {
+   "id": 224,
+   "Question": "What opportunity does citizenship give to the people?",
+   "Option1": "A: Opportunity to fully participate in the nation‚Äôs life and community",
+   "Option2": "B: Opportunity to call themselves people of the World",
+   "Option3": "C: Opportunity to partially participate in the nation‚Äôs life and community",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 225,
+   "Question": "How are local councillors elected?",
+   "Option1": "A: The Queen personally selects them",
+   "Option2": "B: The citizens of the area elect them through voting",
+   "Option3": "C: They are elected by the Prime Minister",
+   "Option4": "D: Any of the above",
+   "answer": 4
+ },
+ {
+   "id": 226,
+   "Question": "Under what circumstances can a woman get a job ahead of a man?",
+   "Option1": "A: Because she is a woman",
+   "Option2": "B: If she needs the job",
+   "Option3": "C: If she has better qualifications and skills",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 227,
+   "Question": "Which two national icons are located in Sydney?",
+   "Option1": "A: The Opera House",
+   "Option2": "B: The Big Ben",
+   "Option3": "C: The Sydney Harbour Bridge",
+   "Option4": "D: Both A And C",
+   "answer": 4
+ },
+ {
+   "id": 228,
+   "Question": "What role does the Governor-General have in the Australian Defence Force?",
+   "Option1": "A: The Governor-General does not have any role in the Australian Defence Force",
+   "Option2": "B: The Governor-General acts as the Commander-in-Chief of the British Defence Force",
+   "Option3": "C: The Governor-General acts as the Commander-in-Chief of the Australian Defence Force",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 229,
+   "Question": "What is online or cyber abuse?",
+   "Option1": "A: When you fight with someone online",
+   "Option2": "B: Stalking a person online or making racially abusive comments",
+   "Option3": "C: Both A and B",
+   "Option4": "D: There is no online abuse",
+   "answer": 4
+ },
+ {
+   "id": 230,
+   "Question": "How many MP‚Äôs are elected to the House of Representatives?",
+   "Option1": "A: 10",
+   "Option2": "B: 50",
+   "Option3": "C: 100",
+   "Option4": "D: 150",
+   "answer": 4
+ },
+ {
+   "id": 231,
+   "Question": "What is the privilege Australian citizens have regarding the Australian Public Service?",
+   "Option1": "A: They can apply for a job in the Australian Public Service",
+   "Option2": "B: They are not allowed to apply for a job in the Australian Public Service",
+   "Option3": "C: It depends on the person",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 232,
+   "Question": "What does the bottom half of the Australian Aboriginal Flag represent?",
+   "Option1": "A: The earth",
+   "Option2": "B: The sky",
+   "Option3": "C: The world",
+   "Option4": "D: The country",
+   "answer": 4
+ },
+ {
+   "id": 233,
+   "Question": "When were the Aboriginal and Torres Strait Islander people included in the official estimate of the Australian population?",
+   "Option1": "A: After they protested",
+   "Option2": "B: After they grew in numbers",
+   "Option3": "C: Both A and B",
+   "Option4": "D: After the Referendum",
+   "answer": 4
+ },
+ {
+   "id": 234,
+   "Question": "What are some examples of emergency cases in which Australian citizens might need help overseas?",
+   "Option1": "A: Natural disaster",
+   "Option2": "B: Civil unrest",
+   "Option3": "C: None of the above",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 235,
+   "Question": "What was the population of Australia in 1901?",
+   "Option1": "A: 1 million",
+   "Option2": "B: 2 million",
+   "Option3": "C: 3 million",
+   "Option4": "D: 4 million",
+   "answer": 4
+ },
+ {
+   "id": 236,
+   "Question": "What special powers does the Governor-General have?",
+   "Option1": "A: He has special powers know as ‚Äúreserve powers‚Äù",
+   "Option2": "B: He does not have any special powers",
+   "Option3": "C: He has non-reverse powers",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 237,
+   "Question": "Who is the Chief Minister?",
+   "Option1": "A: The leader of the Australian Government",
+   "Option2": "B: The representative of the Head of State in each Australian state",
+   "Option3": "C: The representative of the Head of State in Australia",
+   "Option4": "D: The leader of a territory government",
+   "answer": 4
+ },
+ {
+   "id": 238,
+   "Question": "What is the responsibility for Australian citizens aged 18 years or over regarding voting?",
+   "Option1": "A: They can vote if they feel like it",
+   "Option2": "B: They should vote only in the territory elections",
+   "Option3": "C: It is mandatory to vote only in federal elections",
+   "Option4": "D: They should vote in federal and state or territory elections",
+   "answer": 4
+ },
+ {
+   "id": 239,
+   "Question": "Who is the highest authority in court?",
+   "Option1": "A: The judge or magistrate",
+   "Option2": "B: The Prime Minister",
+   "Option3": "C: The Queen",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 240,
+   "Question": "What is the National Anthem of Australia?",
+   "Option1": "A: Advance Australia Fair",
+   "Option2": "B: Australian Anthem",
+   "Option3": "C: The Fair of Australia",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 241,
+   "Question": "What does the blue panel represent In Torres Strait Islander Flag?",
+   "Option1": "A: The sea",
+   "Option2": "B: The ocean",
+   "Option3": "C: The river",
+   "Option4": "D: The pond",
+   "answer": 4
+ },
+ {
+   "id": 242,
+   "Question": "What is the other name for the House of Representatives in the Parliament?",
+   "Option1": "A: The Lower House",
+   "Option2": "B: The Parliament House",
+   "Option3": "C: The House of Lord‚Äôs",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 243,
+   "Question": "Who makes up the cabinet?",
+   "Option1": "A: The senators",
+   "Option2": "B: All the ministers",
+   "Option3": "C: Both A and B",
+   "Option4": "D: Only the ministers with the most important portfolios",
+   "answer": 4
+ },
+ {
+   "id": 244,
+   "Question": "Which is the largest city in Australia?",
+   "Option1": "A: Melbourne",
+   "Option2": "B: Sydney",
+   "Option3": "C: Victoria",
+   "Option4": "D: Perth",
+   "answer": 4
+ },
+ {
+   "id": 245,
+   "Question": "Which culture is an important part of Australia‚Äôs identity?",
+   "Option1": "A: Indian culture",
+   "Option2": "B: Homogenous culture",
+   "Option3": "C: Indigenous culture",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 246,
+   "Question": "Is there a separate Governor-General for each state?",
+   "Option1": "A: No there is only one and states are also ruled by him and no one else",
+   "Option2": "B: Yes there are Governor-Generals for few states",
+   "Option3": "C: No there are separate prime ministers for each state who represent the Queen",
+   "Option4": "D: Yes but there are Governors for each state who represent the Queen in a role similar to the Governor-General",
+   "answer": 4
+ },
+ {
+   "id": 247,
+   "Question": "What do the black lines represent on the Torres Strait Islander Flag?",
+   "Option1": "A: The ocean",
+   "Option2": "B: The sun",
+   "Option3": "C: The Aboriginal people",
+   "Option4": "D: The Torres Strait Islander people",
+   "answer": 4
+ },
+ {
+   "id": 248,
+   "Question": "Who should be provided equal opportunity to pursue their goals and interests regardless of their ethnicity or religion?",
+   "Option1": "A: The Australians",
+   "Option2": "B: The government officials",
+   "Option3": "C: Both A and B",
+   "Option4": "D: Anyone present in Australia",
+   "answer": 4
+ },
+ {
+   "id": 249,
+   "Question": "When did the Aboriginal people arrive in Australia?",
+   "Option1": "A: 500 years ago",
+   "Option2": "B: Between 65000 and 40000 years ago",
+   "Option3": "C: 1000 years ago",
+   "Option4": "D: 5000 years ago",
+   "answer": 4
+ },
+ {
+   "id": 250,
+   "Question": "What difference of treatment do the people get based on religion in Australia?",
+   "Option1": "A: Christians are treated better",
+   "Option2": "B: Muslims are treated better",
+   "Option3": "C: Everyone is treated the same based on religion",
+   "Option4": "D: Your religious beliefs decide how you are treated under law.",
+   "answer": 4
+ },
+ {
+   "id": 251,
+   "Question": "What happens when there is a conflict between an Australian Law and a religious practice?",
+   "Option1": "A: Religion wins over everything",
+   "Option2": "B: If it is Christianity religion wins",
+   "Option3": "C: If it is Islam law wins",
+   "Option4": "D: Law wins under all circumstances",
+   "answer": 4
+ },
+ {
+   "id": 252,
+   "Question": "What is a jury?",
+   "Option1": "A: A group of extraordinary Australian men who listen to the evidence in a court case",
+   "Option2": "B: A group of ordinary Australian men and women who listen to the evidence in a court case",
+   "Option3": "C: A group of extraordinary Australian women who listen to the evidence in a court case",
+   "Option4": "D: A group of ordinary Australian women who listen to the evidence in a court case",
+   "answer": 4
+ },
+ {
+   "id": 253,
+   "Question": "How is a Welcome to Country conducted?",
+   "Option1": "A: Through speeches and dances",
+   "Option2": "B: Through songs and smoking ceremonies",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 254,
+   "Question": "What are some examples of undermining Australia‚Äôs interests and damaging community relations?",
+   "Option1": "A: Promoting distrust in and fear of an ethnic community",
+   "Option2": "B: Sharing official government secrets",
+   "Option3": "C: None of the above",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 255,
+   "Question": "What is the official symbol of the Commonwealth of Australia?",
+   "Option1": "A: The Commonwealth Coat of Arms",
+   "Option2": "B: The Commonwealth Coat of Diamonds",
+   "Option3": "C: The Kangaroo",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 256,
+   "Question": "What happens if someone who does not know about the law ends up breaking it?",
+   "Option1": "A: You will not be charged as you did not know the rule",
+   "Option2": "B: You could be charged as not knowing the law is no excuse",
+   "Option3": "C: You will be punished and hanged",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 257,
+   "Question": "How many religions are there in Australia?",
+   "Option1": "A: Christianity",
+   "Option2": "B: Only Buddhism",
+   "Option3": "C: Different religious groups",
+   "Option4": "D: Only Islam",
+   "answer": 4
+ },
+ {
+   "id": 258,
+   "Question": "Who debates proposals for new laws in the Australian Parliament?",
+   "Option1": "A: Only the senators",
+   "Option2": "B: Only the MP‚Äôs",
+   "Option3": "C: Both the senators and the MP‚Äôs",
+   "Option4": "D: No one the laws are decided by the judges",
+   "answer": 4
+ },
+ {
+   "id": 259,
+   "Question": "What are some of the icons in Tasmania?",
+   "Option1": "A: Bass strait and the Bay of Fire",
+   "Option2": "B: Cradle Mountain Port Arthur and the Bay of Fires",
+   "Option3": "C: All of the above",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 260,
+   "Question": "What type of violence is illegal in Australia?",
+   "Option1": "A: Physical abuse",
+   "Option2": "B: Verbal abuse",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 261,
+   "Question": "Which religion should people in Australia follow?",
+   "Option1": "A: Christianity - as most of the people there are Christains",
+   "Option2": "B: Buddhism - as it is a religion of peace",
+   "Option3": "C: Islam - as it the religion of most of the people in Australia",
+   "Option4": "D: They can choose any religion they want",
+   "answer": 4
+ },
+ {
+   "id": 262,
+   "Question": "What are some of the responsibilities of the Australian Government?",
+   "Option1": "A: Taxation national economic management immigration and citizenship employment assistance.",
+   "Option2": "B: Schools",
+   "Option3": "C: Hospitals",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 263,
+   "Question": "When were the Aboriginal and Torres Strait Islander people included in the official estimates of the Australian population?",
+   "Option1": "A: 1965",
+   "Option2": "B: 1966",
+   "Option3": "C: 1967",
+   "Option4": "D: 1968",
+   "answer": 4
+ },
+ {
+   "id": 264,
+   "Question": "What is the power to make laws called?",
+   "Option1": "A: Judicial power",
+   "Option2": "B: Law and order power",
+   "Option3": "C: Legislative power",
+   "Option4": "D: Executive power",
+   "answer": 4
+ },
+ {
+   "id": 265,
+   "Question": "Where can people meet and conduct social and political discussions?",
+   "Option1": "A: Only at their home",
+   "Option2": "B: Any public or private place",
+   "Option3": "C: Away from public eye",
+   "Option4": "D: Only publicly",
+   "answer": 4
+ },
+ {
+   "id": 266,
+   "Question": "What are the colours of the Australian National Flag?",
+   "Option1": "A: Blue white yellow",
+   "Option2": "B: blue white orange",
+   "Option3": "C: Blue white red",
+   "Option4": "D: Red blue green",
+   "answer": 4
+ },
+ {
+   "id": 267,
+   "Question": "What is the law against bribing the police or offering a police officer a bribe?",
+   "Option1": "A: A small crime",
+   "Option2": "B: It is not a crime",
+   "Option3": "C: A serious crime",
+   "Option4": "D: Depends on who you are bribing and why",
+   "answer": 4
+ },
+ {
+   "id": 268,
+   "Question": "What is located in the south of the Northern Territory?",
+   "Option1": "A: An island",
+   "Option2": "B: An oasis",
+   "Option3": "C: A ship",
+   "Option4": "D: The red desert",
+   "answer": 4
+ },
+ {
+   "id": 269,
+   "Question": "Who are custodians of the local region?",
+   "Option1": "A: The Aboriginal and Torres Strait Islanders",
+   "Option2": "B: The Americans",
+   "Option3": "C: The Austrians",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 270,
+   "Question": "How do the representatives in Parliament answer to the people?",
+   "Option1": "A: By taking their calls",
+   "Option2": "B: By replying to their letters",
+   "Option3": "C: Through elections",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 271,
+   "Question": "What does a jury do?",
+   "Option1": "A: They listen to evidence in a court case",
+   "Option2": "B: They make sure that everyone gets a chance to trial",
+   "Option3": "C: They are just there to listen to what the judge says",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 272,
+   "Question": "On which Act is the Australian Constitution based?",
+   "Option1": "A: The Commonwealth of Australia Constitution Act 1900",
+   "Option2": "B: The Commonwealth of Australia Constitution Act 1901",
+   "Option3": "C: The Commonwealth of Australia Constitution Act 1902",
+   "Option4": "D: The Commonwealth of Australia Constitution Act 1903",
+   "answer": 4
+ },
+ {
+   "id": 273,
+   "Question": "What is the climate of Queensland like?",
+   "Option1": "A: Dry Inland",
+   "Option2": "B: Tropical forests",
+   "Option3": "C: Temperate coastal areas",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 274,
+   "Question": "Where does the tree of the golden wattle grow?",
+   "Option1": "A: In the outskirts of Australia",
+   "Option2": "B: In north-eastern Australia",
+   "Option3": "C: In south-eastern Australia",
+   "Option4": "D: It grows all over Australia",
+   "answer": 4
+ },
+ {
+   "id": 275,
+   "Question": "Who is an elected representative of a state or territory in the Australian Parliament?",
+   "Option1": "A: The Monarch",
+   "Option2": "B: The ruling party",
+   "Option3": "C: Both A and B",
+   "Option4": "D: A senator",
+   "answer": 4
+ },
+ {
+   "id": 276,
+   "Question": "How much influence does the government have on the AEC?",
+   "Option1": "A: It is partly owned by the government",
+   "Option2": "B: It is owned and run by the government",
+   "Option3": "C: It is independent of the government",
+   "Option4": "D: It is run by the monarch",
+   "answer": 4
+ },
+ {
+   "id": 277,
+   "Question": "Which is the first item of proceedings to open an event?",
+   "Option1": "A: A speech",
+   "Option2": "B: Welcome to Country",
+   "Option3": "C: Dance",
+   "Option4": "D: Songs",
+   "answer": 4
+ },
+ {
+   "id": 278,
+   "Question": "Where do the Aboriginal people hail from?",
+   "Option1": "A: Mainland Australia and Tasmania",
+   "Option2": "B: Mainland Australia and Gulf of Mexico",
+   "Option3": "C: Mainland Australia only",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 279,
+   "Question": "Why is no one allowed to know who you have voted for?",
+   "Option1": "A: To ensure that the voting process is free and safe",
+   "Option2": "B: So that you don‚Äôt vote if you don‚Äôt want to",
+   "Option3": "C: So no one can copy who you have voted for",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 280,
+   "Question": "What do we reflect on Anzac day?",
+   "Option1": "A: On the many different ways of war",
+   "Option2": "B: On the many different ways of fighting",
+   "Option3": "C: On the many different meanings of war",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 281,
+   "Question": "How do Australian citizens directly contribute to the Australian community?",
+   "Option1": "A: By inviting new immigrants",
+   "Option2": "B: By paying taxes",
+   "Option3": "C: By doing business",
+   "Option4": "D: By helping politicians",
+   "answer": 4
+ },
+ {
+   "id": 282,
+   "Question": "Who were the Aboriginal and Torres Strait Islander people?",
+   "Option1": "A: People who live in Australia today",
+   "Option2": "B: People who lived in Australia during the 15th century",
+   "Option3": "C: The descendants of the first inhabitants of Australia",
+   "Option4": "D: The First inhabitants of Australia",
+   "answer": 4
+ },
+ {
+   "id": 283,
+   "Question": "What does freedom of speech mean?",
+   "Option1": "A: You can say what you think",
+   "Option2": "B: You can write what you think",
+   "Option3": "C: You can discuss ideas with others",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 284,
+   "Question": "How is the deep connection of Aboriginal and Torres Strait Islander peoples felt with the country?",
+   "Option1": "A: It is expressed in their art",
+   "Option2": "B: It is expressed in their stories",
+   "Option3": "C: It is expressed in their dance",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 285,
+   "Question": "Who came together to help when the Bushfire of Australia occurred?",
+   "Option1": "A: Australian citizens",
+   "Option2": "B: Many multicultural communities",
+   "Option3": "C: No one",
+   "Option4": "D: The world",
+   "answer": 4
+ },
+ {
+   "id": 286,
+   "Question": "Who can be represented by a lawyer in court?",
+   "Option1": "A: The criminals only",
+   "Option2": "B: The people who are innocent only",
+   "Option3": "C: Everyone has a right to be represented by a lawyer",
+   "Option4": "D: No one",
+   "answer": 4
+ },
+ {
+   "id": 287,
+   "Question": "Who do the Courts and Judges answer to?",
+   "Option1": "A: The Parliament and Government",
+   "Option2": "B: They are independent of the government and Parliament",
+   "Option3": "C: They are answerable to the jury",
+   "Option4": "D: They are answerable to the people",
+   "answer": 4
+ },
+ {
+   "id": 288,
+   "Question": "Is online abuse accepted in Australia?",
+   "Option1": "A: No",
+   "Option2": "B: Yes",
+   "Option3": "C: Depends on who is the abuser",
+   "Option4": "D: Depends on who is being abused",
+   "answer": 4
+ },
+ {
+   "id": 289,
+   "Question": "How easily was the nation united under one Australia?",
+   "Option1": "A: It was very easy to unite the colonies together quickly",
+   "Option2": "B: It was very easy to unite the colonies together but it took time",
+   "Option3": "C: It was very difficult to unite the colonies together and that never happened",
+   "Option4": "D: It was very difficult to unite the colonies together but over time it happened",
+   "answer": 4
+ },
+ {
+   "id": 290,
+   "Question": "What sort of protests can Australians carry out?",
+   "Option1": "A: Violent",
+   "Option2": "B: Peaceful",
+   "Option3": "C: Depends on what they are protesting against",
+   "Option4": "D: They can‚Äôt carry out protests",
+   "answer": 4
+ },
+ {
+   "id": 291,
+   "Question": "How can Australian citizens make sure their children born overseas are also Australian citizens?",
+   "Option1": "A: By applying for their children to become an Australian citizen by descent",
+   "Option2": "B: By applying for their children to become an Australian citizen through taking a test on their behalf",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 292,
+   "Question": "Why is voting compulsory?",
+   "Option1": "A: To ensure law and order is maintained.",
+   "Option2": "B: To ensure citizens pay tax and a record is maintained",
+   "Option3": "C: Both A and B",
+   "Option4": "D: To ensure that people have a say in who will govern and represent them in the parliament",
+   "answer": 4
+ },
+ {
+   "id": 293,
+   "Question": "What is multiple or dual citizenship?",
+   "Option1": "A: When Australian citizens hold the citizenship of another country or countries",
+   "Option2": "B: When citizens hold citizenship of only one more country",
+   "Option3": "C: None of the above",
+   "Option4": "D: Dual citizenship does not exist",
+   "answer": 4
+ },
+ {
+   "id": 294,
+   "Question": "How many mainland territories are there in the Commonwealth of Australia?",
+   "Option1": "A: 1",
+   "Option2": "B: 2",
+   "Option3": "C: 3",
+   "Option4": "D: 4",
+   "answer": 4
+ },
+ {
+   "id": 295,
+   "Question": "What is the capital of Australia?",
+   "Option1": "A: Sydney",
+   "Option2": "B: Melbourne",
+   "Option3": "C: Canberra",
+   "Option4": "D: Perth",
+   "answer": 4
+ },
+ {
+   "id": 296,
+   "Question": "What are some areas which government ministers are responsible for?",
+   "Option1": "A: Employment Indigenous Affairs or the Treasury",
+   "Option2": "B: Employment deployment Indigenous Affairs or the Treasury",
+   "Option3": "C: Employment Education or the Treasury",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 297,
+   "Question": "When is the National Anthem of Australia sung?",
+   "Option1": "A: Everyday",
+   "Option2": "B: On occasions of national importance",
+   "Option3": "C: Before musical festivals",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 298,
+   "Question": "In how many parts does the Australian government divide power?",
+   "Option1": "A: 1",
+   "Option2": "B: 2",
+   "Option3": "C: 3",
+   "Option4": "D: 4",
+   "answer": 4
+ },
+ {
+   "id": 299,
+   "Question": "How many colonies was Australia made up of before 1901?",
+   "Option1": "A: 2",
+   "Option2": "B: 4",
+   "Option3": "C: 6",
+   "Option4": "D: 8",
+   "answer": 4
+ },
+ {
+   "id": 300,
+   "Question": "What is an Acknowledgement of Country?",
+   "Option1": "A: An opportunity to recognize that the gathering is on Aboriginal or Torres Strait Islander land",
+   "Option2": "B: An opportunity to recognise that the gathering is on Australian or Austrian land",
+   "Option3": "C: To see who can afford to come to the country",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 301,
+   "Question": "When do Australians come together?",
+   "Option1": "A: When they are happy",
+   "Option2": "B: When they are upset",
+   "Option3": "C: In times of crisis",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 302,
+   "Question": "Who is a Member of Parliament (MP)?",
+   "Option1": "A: An elected representative of the people in the Australian Parliament or a state parliament",
+   "Option2": "B: An elected representative of the people in only the Australian Parliament",
+   "Option3": "C: An elected representative of the people in only the state parliament",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 303,
+   "Question": "What was the Australian Constitution originally passed as?",
+   "Option1": "A: The Australian Constitution was originally passed as part of a British Act of Parliament 1988.",
+   "Option2": "B: The Australian Constitution was originally passed as part of a British Act of Parliament 1989",
+   "Option3": "C: The Australian Constitution was originally passed as part of a British Act of Parliament 1900",
+   "Option4": "D: The Australian Constitution was originally passed as part of a British Act of Parliament 1991",
+   "answer": 4
+ },
+ {
+   "id": 304,
+   "Question": "When were all the colonies of Australia united under one state?",
+   "Option1": "A: On 1 January 1901",
+   "Option2": "B: On 1 January 1902",
+   "Option3": "C: On 1 January 1903",
+   "Option4": "D: On 1 January 1904",
+   "answer": 4
+ },
+ {
+   "id": 305,
+   "Question": "What happened in the bushfire of Australia?",
+   "Option1": "A: Loss of life property and wildlife",
+   "Option2": "B: Environmental destruction",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 306,
+   "Question": "What happens if the majority members of each of the two Houses agree to the Bill?",
+   "Option1": "A: It becomes law",
+   "Option2": "B: It goes to the Governor-General",
+   "Option3": "C: It is debated upon again",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 307,
+   "Question": "What does each local government in the states and the Northern Territory have?",
+   "Option1": "A: Churches",
+   "Option2": "B: Restaurants",
+   "Option3": "C: A local council",
+   "Option4": "D: A local bar",
+   "answer": 4
+ },
+ {
+   "id": 308,
+   "Question": "Who is part of the jury?",
+   "Option1": "A: Extraordinary Australian citizens",
+   "Option2": "B: Ordinary Australian citizens",
+   "Option3": "C: People of political parties only",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 309,
+   "Question": "What happens to the representatives who have been elected by the Australian citizens?",
+   "Option1": "A: They are eligible to become a Monarch",
+   "Option2": "B: They are eligible to work for the people from their homes",
+   "Option3": "C: Both A and B",
+   "Option4": "D: They become members of the relevant state or territory parliament",
+   "answer": 4
+ },
+ {
+   "id": 310,
+   "Question": "Who can express their ideas freely?",
+   "Option1": "A: All the people in Australia",
+   "Option2": "B: Only white people in Australia",
+   "Option3": "C: People of colour in Australia",
+   "Option4": "D: No one",
+   "answer": 4
+ },
+ {
+   "id": 311,
+   "Question": "What sort of majority should be there in a referendum for the Australian Constitution to be changed?",
+   "Option1": "A: Double majority",
+   "Option2": "B: Half majority",
+   "Option3": "C: 3/4th majority",
+   "Option4": "D: 1/4th majority",
+   "answer": 4
+ },
+ {
+   "id": 312,
+   "Question": "How are different states represented in the Senate?",
+   "Option1": "A: The states with higher population get greater representation in the Senate",
+   "Option2": "B: The states which are greater in size get greater representation in the Senate",
+   "Option3": "C: All states are equally represented in the Senate regardless of their size or population",
+   "Option4": "D: No state has any separate representation in the Senate",
+   "answer": 4
+ },
+ {
+   "id": 313,
+   "Question": "How many senators does each state in Australia select?",
+   "Option1": "A: None",
+   "Option2": "B: 12",
+   "Option3": "C: 24",
+   "Option4": "D: 46",
+   "answer": 4
+ },
+ {
+   "id": 314,
+   "Question": "Which two animals support the shield on each side?",
+   "Option1": "A: A kangaroo and deer",
+   "Option2": "B: A kangaroo and elephant",
+   "Option3": "C: A kangaroo and emu",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 315,
+   "Question": "What should you do if you see a child being abused?",
+   "Option1": "A: Run and inform authorities",
+   "Option2": "B: Report to the police to investigate",
+   "Option3": "C: Fight with the culprit",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 316,
+   "Question": "Whose rights does the Australian Constitution recognize?",
+   "Option1": "A: States",
+   "Option2": "B: Territories",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 317,
+   "Question": "What is Australia‚Äôs democratic system based on?",
+   "Option1": "A: That Aboriginals have more rights and responsibilities under Australian Law",
+   "Option2": "B: That natives have more rights and responsibilities under Australian Law",
+   "Option3": "C: That foreigners have more rights and responsibilities under Australian Law",
+   "Option4": "D: That every individual regardless of their background has rights and equality under Australian law",
+   "answer": 4
+ },
+ {
+   "id": 318,
+   "Question": "Who can work for the Australian Government?",
+   "Option1": "A: The eldery",
+   "Option2": "B: Australian citizens",
+   "Option3": "C: Australian men",
+   "Option4": "D: Australian women",
+   "answer": 4
+ },
+ {
+   "id": 319,
+   "Question": "Why are laws made?",
+   "Option1": "A: To ensure fights occur in the society",
+   "Option2": "B: To maintain dignity of the people",
+   "Option3": "C: To maintain an orderly free and safe society to protect our rights",
+   "Option4": "D: To ensure there are honest and religious people",
+   "answer": 4
+ },
+ {
+   "id": 320,
+   "Question": "Who can serve in a jury if called upon?",
+   "Option1": "A: Australian citizens over 14 years old",
+   "Option2": "B: Australian citizens over 16 years old",
+   "Option3": "C: Australian citizens over 18 years old",
+   "Option4": "D: Australian citizens over 20 years old",
+   "answer": 4
+ },
+ {
+   "id": 321,
+   "Question": "How does the state government operate?",
+   "Option1": "A: Every state has their own rules and regulations of operation",
+   "Option2": "B: They operate on the rules set by the Queen",
+   "Option3": "C: They don‚Äôt have any specific role to play",
+   "Option4": "D: They operate in a way similar to the Australian Government",
+   "answer": 4
+ },
+ {
+   "id": 322,
+   "Question": "What role do Australian values have?",
+   "Option1": "A: They define and shape the country",
+   "Option2": "B: They are a reason why so many people want to become Australian citizens",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 323,
+   "Question": "From where can you get more information about domestic or family violence?",
+   "Option1": "A: www.respect.gov.au",
+   "Option2": "B: www.google.com",
+   "Option3": "C: www.1800respect.org.au",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 324,
+   "Question": "Who is the Leader of the Opposition?",
+   "Option1": "A: The leader of the party that has the majority of members in the House of Representatives",
+   "Option2": "B: The owner of the party that has the majority of members in the House of Representatives",
+   "Option3": "C: The leader of the party that has the majority of members in the Senate",
+   "Option4": "D: The leader of the party that has the second highest number of members in the House of Representatives",
+   "answer": 4
+ },
+ {
+   "id": 325,
+   "Question": "Which place in Turkey did the Army Corps land?",
+   "Option1": "A: Gallipoli",
+   "Option2": "B: Cappadocia",
+   "Option3": "C: Istanbul",
+   "Option4": "D: Antalya",
+   "answer": 4
+ },
+ {
+   "id": 326,
+   "Question": "What type of projects are carried out in Western Australia?",
+   "Option1": "A: Agricultural",
+   "Option2": "B: Mining",
+   "Option3": "C: Both A And B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 327,
+   "Question": "Who is the Governor-General?",
+   "Option1": "A: The leader of the ruling party",
+   "Option2": "B: Australia‚Äôs Head of State",
+   "Option3": "C: Appointed by the Queen of Australia as her representative",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 328,
+   "Question": "What is Tasmania?",
+   "Option1": "A: An ocean",
+   "Option2": "B: A sea",
+   "Option3": "C: An island",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 329,
+   "Question": "In Australia what is compulsory for citizens?",
+   "Option1": "A: Running for elections",
+   "Option2": "B: Selecting your candidate to run for elections",
+   "Option3": "C: Voting in elections",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 330,
+   "Question": "What is the ‚ÄúFirst Fleet‚Äù?",
+   "Option1": "A: The first 11 convict ships that arrived from Great Britain to Australia",
+   "Option2": "B: The first 10 convict ships that arrived from Great Britain to Australia",
+   "Option3": "C: The first 9 convict ships that arrived from Great Britain to Australia",
+   "Option4": "D: The first 8 convict ships that arrived from Great Britain to Australia",
+   "answer": 4
+ },
+ {
+   "id": 331,
+   "Question": "What are some of the icons located in the Northern Territory?",
+   "Option1": "A: Uluru Kata Tjuta and Kings Canyon",
+   "Option2": "B: Parliament House and the High Court of Australia.",
+   "Option3": "C: Ningaloo Coast Margaret River and the Kimberley region",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 332,
+   "Question": "Who does the Governor-General appoint to look after matters in the Northern Territory?",
+   "Option1": "A: A senator",
+   "Option2": "B: An administrator",
+   "Option3": "C: Chief of Army staff",
+   "Option4": "D: Any of the above",
+   "answer": 4
+ },
+ {
+   "id": 333,
+   "Question": "What is your duty if you know someone is in danger?",
+   "Option1": "A: You should contact the police",
+   "Option2": "B: You should contact the government",
+   "Option3": "C: You should contact the welfare agency",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 334,
+   "Question": "Does the law allow discrimination against a person because of their gender in Australia?",
+   "Option1": "A: Yes but only under some circumstance",
+   "Option2": "B: Yes",
+   "Option3": "C: No",
+   "Option4": "D: A",
+   "answer": 3
+ },
+ {
+   "id": 335,
+   "Question": "Why is it important to communicate in English?",
+   "Option1": "A: To save yourself from the police",
+   "Option2": "B: To save yourself from confusion",
+   "Option3": "C: Both A and B",
+   "Option4": "D: To make the most of living and working in Australia",
+   "answer": 4
+ },
+ {
+   "id": 336,
+   "Question": "In Torres Strait Islander Flag which symbol represents the Torres Strait Islanders?",
+   "Option1": "A: The yellow circle in the middle of the flag",
+   "Option2": "B: The red dancer‚Äôs headdress in the centre",
+   "Option3": "C: The white dancer‚Äôs headdress in the centre",
+   "Option4": "D: The orange white dancer‚Äôs headdress in the centre",
+   "answer": 4
+ },
+ {
+   "id": 337,
+   "Question": "What responsibility do the Australian Citizens have?",
+   "Option1": "A: To help protect Australian society",
+   "Option2": "B: To help fight in battles",
+   "Option3": "C: To help them win wars",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 338,
+   "Question": "What does the official symbol of the Commonwealth of Australia represent?",
+   "Option1": "A: Peace",
+   "Option2": "B: Tranquillity",
+   "Option3": "C: National unity",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 339,
+   "Question": "Who is protected by the law and legal system of Australia?",
+   "Option1": "A: Only immigrants",
+   "Option2": "B: All Australians",
+   "Option3": "C: Only tourists visiting the country",
+   "Option4": "D: Only native Australians who were born in the country",
+   "answer": 4
+ },
+ {
+   "id": 340,
+   "Question": "In the Australian system who is the leader of the Australian Government?",
+   "Option1": "A: The President",
+   "Option2": "B: The Queen",
+   "Option3": "C: The King",
+   "Option4": "D: The Prime Minister",
+   "answer": 4
+ },
+ {
+   "id": 341,
+   "Question": "In Australia who has superiority over the other under the Rule of Law?",
+   "Option1": "A: Native Australians are superior than the others in relation to the law",
+   "Option2": "B: All Australians are equal in relation to the law",
+   "Option3": "C: Tourists are considered the most superior than others in relation to the law",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 342,
+   "Question": "What should you do if the police ask you to do something?",
+   "Option1": "A: You need to do it whether it is a lawful or unlawful request",
+   "Option2": "B: You can refuse to do it whether it is a lawful or unlawful request",
+   "Option3": "C: You should obey if it is an unlawful request",
+   "Option4": "D: You should obey if it is a lawful request",
+   "answer": 4
+ },
+ {
+   "id": 343,
+   "Question": "What law does Australia have against religious intolerance?",
+   "Option1": "A: It is acceptable",
+   "Option2": "B: It is not acceptable",
+   "Option3": "C: It depends on how much intolerance has occurred",
+   "Option4": "D: It results in hanging of the person",
+   "answer": 4
+ },
+ {
+   "id": 344,
+   "Question": "Who has the right to make their own choices?",
+   "Option1": "A: Men",
+   "Option2": "B: Women",
+   "Option3": "C: Both men and women",
+   "Option4": "D: No one",
+   "answer": 4
+ },
+ {
+   "id": 345,
+   "Question": "What association do the Aboriginal people have in the creation of Australia?",
+   "Option1": "A: They played no role in the creation of Australia",
+   "Option2": "B: They were somewhat involved in the creation of Australia.",
+   "Option3": "C: They were central to the creation of Australia",
+   "Option4": "D: They migrated to Australia after it was booming",
+   "answer": 4
+ },
+ {
+   "id": 346,
+   "Question": "Which government is responsible for parks playgrounds swimming pools sports grounds camping grounds and caravan parks?",
+   "Option1": "A: Australian government",
+   "Option2": "B: Local government",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 347,
+   "Question": "Both the animals on the sides supporting the shield on the Commonwealth Coat of Arms are native to which country?",
+   "Option1": "A: America",
+   "Option2": "B: Australia",
+   "Option3": "C: India",
+   "Option4": "D: Austria",
+   "answer": 4
+ },
+ {
+   "id": 348,
+   "Question": "Where are the Australian of the Year Awards held?",
+   "Option1": "A: Perth",
+   "Option2": "B: Darwin",
+   "Option3": "C: South Wales",
+   "Option4": "D: Canberra",
+   "answer": 4
+ },
+ {
+   "id": 349,
+   "Question": "How many levels of Government does Australia have?",
+   "Option1": "A: 1",
+   "Option2": "B: 2",
+   "Option3": "C: 3",
+   "Option4": "D: 4",
+   "answer": 4
+ },
+ {
+   "id": 350,
+   "Question": "What is domestic or family violence?",
+   "Option1": "A: Violence within the home and within marriage",
+   "Option2": "B: Violence with your neighbours",
+   "Option3": "C: Violence in the community",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 351,
+   "Question": "What role does the Governor-General have in appointing the representatives of the Australian Government?",
+   "Option1": "A: He selects and short lists the ministers federal judges and other officials of the Australian government",
+   "Option2": "B: He approves the appointment of the Australian Government and its ministers federal judges and other officials",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 352,
+   "Question": "Can religious laws go against laws in Australia?",
+   "Option1": "A: No religious laws do not go against the law in Australia",
+   "Option2": "B: Yes all of the religious laws go against the law in Australia",
+   "Option3": "C: Some religious or cultural practices such as polygamy and forced marriage are against the law",
+   "Option4": "D: There are no religious laws in Australia",
+   "answer": 4
+ },
+ {
+   "id": 353,
+   "Question": "What is the role of the police?",
+   "Option1": "A: The police catch criminals only",
+   "Option2": "B: The police maintain peace in the community",
+   "Option3": "C: The police maintain order in the community",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 354,
+   "Question": "What are some of the crimes that the national police force of Australia investigate?",
+   "Option1": "A: Crimes against federal laws",
+   "Option2": "B: Crimes against provincial laws",
+   "Option3": "C: Crimes against local laws",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 355,
+   "Question": "Which values are central to the Australian community to make it a secure prosperous and peaceful place to live in?",
+   "Option1": "A: Values based on freedom respect fairness and equality of opportunity",
+   "Option2": "B: Values based on white-supremacy respect fairness and equality of opportunity",
+   "Option3": "C: Values based on freedom respect fairness and preference to White people",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 356,
+   "Question": "What is the capital of New South Wales?",
+   "Option1": "A: Sydney",
+   "Option2": "B: Canberra",
+   "Option3": "C: Melbourne",
+   "Option4": "D: New Castle",
+   "answer": 4
+ },
+ {
+   "id": 357,
+   "Question": "What happens if you are not correctly enrolled?",
+   "Option1": "A: You can vote but your vote will not count",
+   "Option2": "B: You can vote",
+   "Option3": "C: You will not be able to vote",
+   "Option4": "D: You can go to jail",
+   "answer": 4
+ },
+ {
+   "id": 358,
+   "Question": "What are the characteristics of the Golden Wattle Tree?",
+   "Option1": "A: It has bright green leaves and many golden yellow flowers in spring",
+   "Option2": "B: It has bright orange leaves and many golden yellow flowers in spring",
+   "Option3": "C: It has bright green leaves and many yellow flowers in spring",
+   "Option4": "D: It has bright red leaves and many golden yellow flowers in spring",
+   "answer": 4
+ },
+ {
+   "id": 359,
+   "Question": "After which election is the Australian government formed?",
+   "Option1": "A: The local elections",
+   "Option2": "B: The world elections",
+   "Option3": "C: The federal elections",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 360,
+   "Question": "What can the locals of Australia go up to the police with?",
+   "Option1": "A: To report crimes",
+   "Option2": "B: To seek assistance",
+   "Option3": "C: None of the above",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 361,
+   "Question": "Where did the army corps land during world war I ?",
+   "Option1": "A: In Russia",
+   "Option2": "B: In Turkey",
+   "Option3": "C: In Austria",
+   "Option4": "D: In Australia",
+   "answer": 4
+ },
+ {
+   "id": 362,
+   "Question": "What is the Royal Assent?",
+   "Option1": "A: When the Queen signs all the Bills passed by the Australian Parliament into Law",
+   "Option2": "B: When the Prime Minister signs all the Bills passed by the Australian Parliament into Law",
+   "Option3": "C: When the President signs all the Bills passed by the Australian Parliament into Law",
+   "Option4": "D: When the Governor-General signs all the Bills passed by the Australian Parliament into Law",
+   "answer": 4
+ },
+ {
+   "id": 363,
+   "Question": "What happened when the Commonwealth of Australia was established?",
+   "Option1": "A: The democratic institutions stayed the same",
+   "Option2": "B: The new democratic institutions were established under the new American Constitution",
+   "Option3": "C: The new democratic institutions were established under the new Australian Constitution",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 364,
+   "Question": "Can you make false allegations or encourage others to break the law?",
+   "Option1": "A: Yes you can",
+   "Option2": "B: No you can‚Äôt",
+   "Option3": "C: You will not be held accountable if they don‚Äôt break the law",
+   "Option4": "D: You will not be held accountable even if they listen to you and break the law",
+   "answer": 4
+ },
+ {
+   "id": 365,
+   "Question": "Can you use a hand-held mobile device while driving?",
+   "Option1": "A: No you can not",
+   "Option2": "B: Yes you can",
+   "Option3": "C: There is no law against or in favour of it",
+   "Option4": "D: It depends on which State you are in",
+   "answer": 4
+ },
+ {
+   "id": 366,
+   "Question": "Who is appointed as the representative of the Queen of Australia by her?",
+   "Option1": "A: The Prime Minister",
+   "Option2": "B: The President",
+   "Option3": "C: Both A and B",
+   "Option4": "D: The Governor-General",
+   "answer": 4
+ },
+ {
+   "id": 367,
+   "Question": "Why did an influx of non-British migrants come to Australia?",
+   "Option1": "A: Millions of people in Europe had to leave their homelands after World War II",
+   "Option2": "B: Millions of people in Europe had to leave their homelands after World War I",
+   "Option3": "C: Millions of people in Europe had to leave their homelands after the Industrial Revolution",
+   "Option4": "D: Millions of people in Europe had to leave their homelands after the Dark Ages",
+   "answer": 4
+ },
+ {
+   "id": 368,
+   "Question": "Why were the convicts sent to Australia?",
+   "Option1": "A: British rules did not allow convicts to stay in Britain",
+   "Option2": "B: British rules were very strict",
+   "Option3": "C: There was no space in the jails to hold more convicts",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 369,
+   "Question": "Who is the Governor?",
+   "Option1": "A: Queen of Australia",
+   "Option2": "B: Represents the Queen in a role that is similar to the Governor-General",
+   "Option3": "C: The leader of the ruling party",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 370,
+   "Question": "Which two places elect only 2 senators each?",
+   "Option1": "A: Sydney and Melbourne",
+   "Option2": "B: Austria and Australia",
+   "Option3": "C: Australian Capital Territory and Sydney",
+   "Option4": "D: Australian Capital Territory and Northern Territory",
+   "answer": 4
+ },
+ {
+   "id": 371,
+   "Question": "Who were the first non-European people to come to Australia?",
+   "Option1": "A: Americans",
+   "Option2": "B: Bristishers",
+   "Option3": "C: ScotsScots",
+   "Option4": "D: Chinese",
+   "answer": 4
+ },
+ {
+   "id": 372,
+   "Question": "What is the capital of Queensland?",
+   "Option1": "A: Brisbane",
+   "Option2": "B: Perth",
+   "Option3": "C: New Castle",
+   "Option4": "D: Sydney",
+   "answer": 4
+ },
+ {
+   "id": 373,
+   "Question": "What role does the English language play in Australian society?",
+   "Option1": "A: It is just a language and plays the role of communication only",
+   "Option2": "B: It is an important unifying element of American society",
+   "Option3": "C: It is an important unifying element of Australian society",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 374,
+   "Question": "How dependent are the police on the government?",
+   "Option1": "A: It depends on the crime occuring",
+   "Option2": "B: They are fully dependent on the government",
+   "Option3": "C: They are partially dependent on the government",
+   "Option4": "D: They are independent of the government",
+   "answer": 4
+ },
+ {
+   "id": 375,
+   "Question": "What does the white color symbolise in Torres Strait Islander Flag?",
+   "Option1": "A: War",
+   "Option2": "B: Surrender",
+   "Option3": "C: Peace",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 376,
+   "Question": "What does the jury help the court to decide?",
+   "Option1": "A: If a person is a murderer or not",
+   "Option2": "B: If there is a minor involved",
+   "Option3": "C: If the person has broken the law or not",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 377,
+   "Question": "What is a ‚ÄúBill‚Äù?",
+   "Option1": "A: A law",
+   "Option2": "B: A proposal",
+   "Option3": "C: A fact",
+   "Option4": "D: A request",
+   "answer": 4
+ },
+ {
+   "id": 378,
+   "Question": "How is a jury selected?",
+   "Option1": "A: The best of the best are chosen",
+   "Option2": "B: The Queen recommends the members of the jury",
+   "Option3": "C: They are selected at random",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 379,
+   "Question": "Who do the judge and magistrate listen to?",
+   "Option1": "A: The people",
+   "Option2": "B: The jury",
+   "Option3": "C: No one they are independent",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 380,
+   "Question": "Are most of the parliamentarians individual representatives?",
+   "Option1": "A: No they always belong to some political party",
+   "Option2": "B: Yes they are",
+   "Option3": "C: Most parliamentarians belong to political parties",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 381,
+   "Question": "Who is Anzac Day named after?",
+   "Option1": "A: After the New Zealand Army Corps",
+   "Option2": "B: After the Australian Army Corps",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 382,
+   "Question": "When did the army corps land in turkey during world war I ?",
+   "Option1": "A: On 23rd April 1915",
+   "Option2": "B: On 24th April 1915",
+   "Option3": "C: On 25th April 1915",
+   "Option4": "D: On 26th April 1915",
+   "answer": 4
+ },
+ {
+   "id": 383,
+   "Question": "In Australia which political party should you join?",
+   "Option1": "A: The winning party",
+   "Option2": "B: The opposition",
+   "Option3": "C: The common man can not join any party",
+   "Option4": "D: People are free to choose any party they want",
+   "answer": 4
+ },
+ {
+   "id": 384,
+   "Question": "Who represents the people in their electorate?",
+   "Option1": "A: The Prime Minister",
+   "Option2": "B: The Queen",
+   "Option3": "C: Federal Ministers",
+   "Option4": "D: Members of Parliament",
+   "answer": 4
+ },
+ {
+   "id": 385,
+   "Question": "Why is it important to learn English in Australia?",
+   "Option1": "A: Because it helps to get an education a job and better integrate into the community.",
+   "Option2": "B: Because it helps in marrying off good",
+   "Option3": "C: Because it is the national language",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 386,
+   "Question": "How can Australia ensure that people are not treated differently from others?",
+   "Option1": "A: There are a number of laws for that",
+   "Option2": "B: The police force ensures that",
+   "Option3": "C: The government ensures that",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 387,
+   "Question": "Why are people in Australia provided with a ‚Äúfair go‚Äù?",
+   "Option1": "A: To make sure there are no formal class distinctions in the society",
+   "Option2": "B: To ensure the economy keeps running",
+   "Option3": "C: Both A and B",
+   "Option4": "D: To ensure stability is achieved",
+   "answer": 4
+ },
+ {
+   "id": 388,
+   "Question": "What is the opposition?",
+   "Option1": "A: The party with the lowest votes in the election",
+   "Option2": "B: The party or coalition of parties with the second largest number of members in the House of Representatives",
+   "Option3": "C: The party with the majority members in the Parliament",
+   "Option4": "D: The party with the highest votes in the election",
+   "answer": 4
+ },
+ {
+   "id": 389,
+   "Question": "In which countries does Australia have an embassy high commission or consulate?",
+   "Option1": "A: Only neighbouring countries",
+   "Option2": "B: In English-speaking countries",
+   "Option3": "C: In many countries",
+   "Option4": "D: In all the countries of the world",
+   "answer": 4
+ },
+ {
+   "id": 390,
+   "Question": "What do the Australians think of violence as a way to change a person‚Äôs mind or the law?",
+   "Option1": "A: Violence should be exercised when needed",
+   "Option2": "B: Violence under any condition is rejected",
+   "Option3": "C: Violence just for the sake of scaring is allowed",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 391,
+   "Question": "Why is learning to speak English essential?",
+   "Option1": "A: To help you marry someone you love",
+   "Option2": "B: For economic participation",
+   "Option3": "C: For social cohesion",
+   "Option4": "D: Both B And C",
+   "answer": 4
+ },
+ {
+   "id": 392,
+   "Question": "What does the Australian system of Parliamentary democracy reflect?",
+   "Option1": "A: The North American and British traditions combined",
+   "Option2": "B: The North American and Australian traditions combined",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 393,
+   "Question": "Is service in the Australian Defence Force voluntary?",
+   "Option1": "A: No it is obligatory",
+   "Option2": "B: No it is every Australian‚Äôs duty to serve in the Australian Defence Force",
+   "Option3": "C: Yes it is voluntary",
+   "Option4": "D: It depends in the laws of government at that time",
+   "answer": 4
+ },
+ {
+   "id": 394,
+   "Question": "What are the states and the Northern Territory divided into?",
+   "Option1": "A: Local government areas like cities shires towns and municipalities",
+   "Option2": "B: Federal government areas like cities shires towns and municipalities",
+   "Option3": "C: They are divided into schools colleges and farms",
+   "Option4": "D: They are not divided",
+   "answer": 4
+ },
+ {
+   "id": 395,
+   "Question": "Where do Torres Strait Islander people hail from?",
+   "Option1": "A: They come from the islands of Asia",
+   "Option2": "B: They come from the islands of North America",
+   "Option3": "C: They come from the islands of Africa",
+   "Option4": "D: They come from the islands between the northern tip of Queensland and Papua New Guinea",
+   "answer": 4
+ },
+ {
+   "id": 396,
+   "Question": "How many Aboriginal and Torres Strait Islander languages are included in Australian culture?",
+   "Option1": "A: More than 50",
+   "Option2": "B: More than 50",
+   "Option3": "C: More than 200",
+   "Option4": "D: More than 100",
+   "answer": 4
+ },
+ {
+   "id": 397,
+   "Question": "Who approves the appointment of the Prime Minister and Ministers?",
+   "Option1": "A: The ruling Monarch",
+   "Option2": "B: The Queen",
+   "Option3": "C: The Governor",
+   "Option4": "D: The Governor-General",
+   "answer": 4
+ },
+ {
+   "id": 398,
+   "Question": "Keeping in view the spirit of mateship what sort of traditions does Australia have?",
+   "Option1": "A: Strong tradition of community service and looking after yourself",
+   "Option2": "B: Strong tradition of keeping an eye in other‚Äôs business and volunteering",
+   "Option3": "C: Strong tradition of community service and volunteering",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 399,
+   "Question": "Who are the Executives?",
+   "Option1": "A: The Prime Minister",
+   "Option2": "B: The Australian government ministers",
+   "Option3": "C: The Governor-General",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 400,
+   "Question": "What is the overall role of the House of Representatives?",
+   "Option1": "A: To consider debate and vote on proposals for new laws or changes to the laws and discuss matters of national importance",
+   "Option2": "B: Only to change laws and discuss matters of national importance",
+   "Option3": "C: Only to discuss matters of national importance",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 401,
+   "Question": "What are the icons located in Victoria?",
+   "Option1": "A: Melbourne Cricket Ground the 12 Apostles and the Big Ben",
+   "Option2": "B: Melbourne Cricket Ground the 12 Apostles and the River Thames",
+   "Option3": "C: Melbourne Cricket Ground the 12 Apostles and the Royal Exhibition Building",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 402,
+   "Question": "Who delivers the Acknowledgement of Country?",
+   "Option1": "A: The President",
+   "Option2": "B: The Prime Minister",
+   "Option3": "C: The Monarch",
+   "Option4": "D: Anyone",
+   "answer": 4
+ },
+ {
+   "id": 403,
+   "Question": "Who overlooks the politics of the Northern Territory?",
+   "Option1": "A: An administrator",
+   "Option2": "B: A senator",
+   "Option3": "C: The Chief of Army staff",
+   "Option4": "D: Any of the above",
+   "answer": 4
+ },
+ {
+   "id": 404,
+   "Question": "Which part of Western Australia is a desert?",
+   "Option1": "A: East of the state",
+   "Option2": "B: North of the state",
+   "Option3": "C: West of the state",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 405,
+   "Question": "What is a referendum?",
+   "Option1": "A: A vote to change the Australian Constitution",
+   "Option2": "B: A vote to change the Australian police",
+   "Option3": "C: A vote to change the Australian democracy",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 406,
+   "Question": "In recent years what has brought people to Australia from all over the world?",
+   "Option1": "A: Hospitality",
+   "Option2": "B: Migration and refugee programs",
+   "Option3": "C: Weather",
+   "Option4": "D: Easy life",
+   "answer": 4
+ },
+ {
+   "id": 407,
+   "Question": "How does the jury know what the law is?",
+   "Option1": "A: They are given classes and courses",
+   "Option2": "B: The judge tells them what the law is",
+   "Option3": "C: The lawyer tells them what the law is",
+   "Option4": "D: They attend seminars on the working of the law",
+   "answer": 4
+ },
+ {
+   "id": 408,
+   "Question": "What happened after the gold rush?",
+   "Option1": "A: People from all over the world came to try to make their fortune",
+   "Option2": "B: People from nearby came over to try to make their fortune",
+   "Option3": "C: Word did not spread far",
+   "Option4": "D: All the gold was used by the Australians",
+   "answer": 4
+ },
+ {
+   "id": 409,
+   "Question": "How many colours does the Torres Strait Islander Flag have?",
+   "Option1": "A: 1",
+   "Option2": "B: 2",
+   "Option3": "C: 3",
+   "Option4": "D: 4",
+   "answer": 4
+ },
+ {
+   "id": 410,
+   "Question": "Which level of government controls the courts in Australia?",
+   "Option1": "A: The courts in Australia are independent.",
+   "Option2": "B: The federal government",
+   "Option3": "C: The local government",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 411,
+   "Question": "What does Australia Day celebrate?",
+   "Option1": "A: It is the anniversary of the arrival of the First Fleet from Great Britain in 1788",
+   "Option2": "B: It is the anniversary of the arrival of the Second Fleet from Great Britain in 1788",
+   "Option3": "C: It is the anniversary of the arrival of the Third Fleet from Great Britain in 1788",
+   "Option4": "D: It is the anniversary of the arrival of the Fourth Fleet from Great Britain in 1788",
+   "answer": 4
+ },
+ {
+   "id": 412,
+   "Question": "Which was the first colony to be established by the Britishers in Australia?",
+   "Option1": "A: Victoria",
+   "Option2": "B: New Queensland",
+   "Option3": "C: Western Australia",
+   "Option4": "D: New South Wales",
+   "answer": 4
+ },
+ {
+   "id": 413,
+   "Question": "What are some of the serious crimes?",
+   "Option1": "A: Murder assault sexual assault violence against property and people.",
+   "Option2": "B: Armed robbery or theft and having sexual relations with children or young people who are aged below the legal age of consent",
+   "Option3": "C: Dangerous driving of a motor car possession of illegal drugs and fraud.",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 414,
+   "Question": "Which is the largest state in Australia?",
+   "Option1": "A: South Australia",
+   "Option2": "B: Western Australia",
+   "Option3": "C: New South Wales",
+   "Option4": "D: Queensland",
+   "answer": 4
+ },
+ {
+   "id": 415,
+   "Question": "What is Australia Day all about?",
+   "Option1": "A: Acknowledging and celebrating the Aboriginal and Torres Strait Islander peoples",
+   "Option2": "B: Acknowledging and celebrating the people living in Australia for generations",
+   "Option3": "C: Acknowledging and celebrating the people who come to Australia from all over the globe",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 416,
+   "Question": "Who is the Premier?",
+   "Option1": "A: The Leader of the country",
+   "Option2": "B: The Leader of all the states of Australia",
+   "Option3": "C: The leader of a state government",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 417,
+   "Question": "In which elections is voting compulsory all over Australia?",
+   "Option1": "A: Territory elections",
+   "Option2": "B: Federal and state elections",
+   "Option3": "C: Local government elections",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 418,
+   "Question": "How many national institutions are located in Canberra?",
+   "Option1": "A: 1",
+   "Option2": "B: 2",
+   "Option3": "C: A few",
+   "Option4": "D: Several",
+   "answer": 4
+ },
+ {
+   "id": 419,
+   "Question": "What are the icons of South Australia?",
+   "Option1": "A: The 12 Apostles",
+   "Option2": "B: Cradle Mountain",
+   "Option3": "C: Barossa Valley and the Flinders Ranges",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 420,
+   "Question": "What are the punishments for people who break traffic laws?",
+   "Option1": "A: They are charged a fine only and nothing else",
+   "Option2": "B: Their driving licence can get revoked",
+   "Option3": "C: They can be fined or sent to prison",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 421,
+   "Question": "What does the concept of equal opportunity mean?",
+   "Option1": "A: What someone achieves in life should be as a result of their wealth or background rather than their talents work and effort.",
+   "Option2": "B: What someone achieves in life should be as a result of their talents work and effort rather than their wealth or background.",
+   "Option3": "C: What someone achieves in life is only because of their good luck",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 422,
+   "Question": "What do the national colours of Australia represent?",
+   "Option1": "A: the colours of the golden wattle",
+   "Option2": "B: the colours of the silver wattle",
+   "Option3": "C: the colours of the wattle",
+   "Option4": "D: the colours of the yellow wattle",
+   "answer": 4
+ },
+ {
+   "id": 423,
+   "Question": "In Australia‚Äôs court system who is considered innocent?",
+   "Option1": "A: Any criminal without evidence",
+   "Option2": "B: Everyone is considered innocent until proven guilty in court",
+   "Option3": "C: Everyone is a criminal until proven innocent in court",
+   "Option4": "D: No one is considered innocent",
+   "answer": 4
+ },
+ {
+   "id": 424,
+   "Question": "What can people do under freedom of speech?",
+   "Option1": "A: Criticise the government",
+   "Option2": "B: Protest peacefully against the government",
+   "Option3": "C: Campaign to change laws",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 425,
+   "Question": "Why did the Europeans pick Australia to come to?",
+   "Option1": "A: Large numbers of Europeans came to Australia to marry",
+   "Option2": "B: Large numbers of Europeans came to Australia to study",
+   "Option3": "C: Large numbers of Europeans came to Australia to build a new life.",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 426,
+   "Question": "What is the national police force of Australia called?",
+   "Option1": "A: National Australian Federal Police",
+   "Option2": "B: Federal Police of Australia",
+   "Option3": "C: Australian Federal Police",
+   "Option4": "D: Police Force of Australia",
+   "answer": 4
+ },
+ {
+   "id": 427,
+   "Question": "Under what conditions can Australian citizens hold the citizenship of another country or countries?",
+   "Option1": "A: If the law of those countries allow",
+   "Option2": "B: If the law of Australia allows",
+   "Option3": "C: If the World law allows",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 428,
+   "Question": "How do Australians believe change should happen?",
+   "Option1": "A: Through war",
+   "Option2": "B: Through a military coup",
+   "Option3": "C: Through discussion peaceful persuasion and the democratic process",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 429,
+   "Question": "What does the Union Jack represent in the Australian national flag?",
+   "Option1": "A: It is the flag of the USA",
+   "Option2": "B: It is the flag of the UK",
+   "Option3": "C: It is the flag of Australia",
+   "Option4": "D: It is the flag of Austria",
+   "answer": 4
+ },
+ {
+   "id": 430,
+   "Question": "What duty does an Australian citizen have towards the law of the country?",
+   "Option1": "A: Laws are meant to be broken",
+   "Option2": "B: You must obey the laws of Australia",
+   "Option3": "C: You must obey the laws of Australia if you think they are correct",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 431,
+   "Question": "Who becomes the Prime Minister of Australia?",
+   "Option1": "A: The leader of the party or coalition parties",
+   "Option2": "B: The one who is elected by the Queen",
+   "Option3": "C: The one who has the majority of votes in the election",
+   "Option4": "D: The one who was chosen by the people of Australia",
+   "answer": 4
+ },
+ {
+   "id": 432,
+   "Question": "Who is encouraged to actively participate in the Australian society?",
+   "Option1": "A: Youngsters",
+   "Option2": "B: Elderly",
+   "Option3": "C: Job holders",
+   "Option4": "D: All citizens",
+   "answer": 4
+ },
+ {
+   "id": 433,
+   "Question": "What is an example of an Australian law that should be followed when the citizen is overseas?",
+   "Option1": "A: It‚Äôs illegal for Australians to be involved in any sexual activity here or overseas with a child under 16 years of age.",
+   "Option2": "B: You don‚Äôt need to follow Australian laws overseas",
+   "Option3": "C: Drinking under 20 is not allowed",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 434,
+   "Question": "What does the jury service ensure?",
+   "Option1": "A: The court system is rapid and quick",
+   "Option2": "B: The court system is open and fair",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 435,
+   "Question": "What do you pledge about at the citizenship ceremony?",
+   "Option1": "A: You pledge to have a say in the working of the Australian government",
+   "Option2": "B: You pledge to uphold and obey the laws of Australia",
+   "Option3": "C: You pledge to participate in making the society of Australia wonderful",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 436,
+   "Question": "When is Australia Day celebrated?",
+   "Option1": "A: 25th January",
+   "Option2": "B: 26th January",
+   "Option3": "C: 27th January",
+   "Option4": "D: 28th January",
+   "answer": 4
+ },
+ {
+   "id": 437,
+   "Question": "Which religion are the people in Australia preferred to choose?",
+   "Option1": "A: Any religion they choose",
+   "Option2": "B: They many also not follow a religion",
+   "Option3": "C: Both A and B",
+   "Option4": "D: Christianity",
+   "answer": 4
+ },
+ {
+   "id": 438,
+   "Question": "What type of coastline does South Australia have?",
+   "Option1": "A: Rugged coastline",
+   "Option2": "B: Smooth coastline",
+   "Option3": "C: Fresh coastline",
+   "Option4": "D: It is different in different areas",
+   "answer": 4
+ },
+ {
+   "id": 439,
+   "Question": "On what does the heritage of the early settlers have an influence?",
+   "Option1": "A: Australia‚Äôs politics",
+   "Option2": "B: Australia‚Äôs culture",
+   "Option3": "C: Australia‚Äôs history",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 440,
+   "Question": "What is the Commonwealth of Australia?",
+   "Option1": "A: It is a federation of different countries",
+   "Option2": "B: It is a federation of states and territories",
+   "Option3": "C: None of the above",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 441,
+   "Question": "Who should obey the laws made in Australia?",
+   "Option1": "A: All Australian citizens and other people in Australia",
+   "Option2": "B: Only Australian citizens",
+   "Option3": "C: Only people who come over to visit",
+   "Option4": "D: Only people who plan to go to Australia",
+   "answer": 4
+ },
+ {
+   "id": 442,
+   "Question": "What does a constitutional monarchy mean?",
+   "Option1": "A: It means that the Queen is the Head of State and she has ultimate power",
+   "Option2": "B: It means that the Queen is the Head of State and she has partial power",
+   "Option3": "C: It means that the Queen is the Head of State and she has to act in accordance with the Constitution",
+   "Option4": "D: It means that the Queen is the Head of State and she can abolish the Constitution whenever she wants",
+   "answer": 4
+ },
+ {
+   "id": 443,
+   "Question": "As an Australian citizen which jobs can you apply for?",
+   "Option1": "A: None",
+   "Option2": "B: The Australian Public Service or the Australian Defence Force",
+   "Option3": "C: The American Public Service or the Australian Defence Force",
+   "Option4": "D: The National Public Service or the Australian Defence Force",
+   "answer": 4
+ },
+ {
+   "id": 444,
+   "Question": "What is the age of sexual consent in Australia?",
+   "Option1": "A: 15",
+   "Option2": "B: Any age",
+   "Option3": "C: 16 or 17 depending on the state you are in",
+   "Option4": "D: 18",
+   "answer": 4
+ },
+ {
+   "id": 445,
+   "Question": "Voting is an important responsibility right and privilege for all Australian citizens above which age?",
+   "Option1": "A: 15",
+   "Option2": "B: 17",
+   "Option3": "C: 18",
+   "Option4": "D: 20",
+   "answer": 4
+ },
+ {
+   "id": 446,
+   "Question": "On Australia Day communities across Australia do what?",
+   "Option1": "A: They drink and party",
+   "Option2": "B: They hold memorials",
+   "Option3": "C: They go out of station",
+   "Option4": "D: They reflect on the history and the people who have contributed to Australia‚Äôs shared achievements.",
+   "answer": 4
+ },
+ {
+   "id": 447,
+   "Question": "What other names does the Australian Government go by?",
+   "Option1": "A: The Federal Government",
+   "Option2": "B: The Commonwealth Government",
+   "Option3": "C: Both A and B",
+   "Option4": "D: The Government of Australia",
+   "answer": 4
+ },
+ {
+   "id": 448,
+   "Question": "What is the official religion in Australia?",
+   "Option1": "A: Chirstianity",
+   "Option2": "B: Buddhism",
+   "Option3": "C: There is no official religion in Australia",
+   "Option4": "D: Islam",
+   "answer": 4
+ },
+ {
+   "id": 449,
+   "Question": "In a federal election who do the Australian citizens vote to elect?",
+   "Option1": "A: Representatives of both Houses",
+   "Option2": "B: Representatives of The House of Representatives",
+   "Option3": "C: The Senate",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 450,
+   "Question": "What was the gold rush all about?",
+   "Option1": "A: When gold was discovered in the colonies of Scotland and Victoria",
+   "Option2": "B: When gold was discovered in the colonies of Britain and Victoria",
+   "Option3": "C: When gold was discovered in the colonies of New South Wales and Victoria",
+   "Option4": "D: When gold was discovered in the colonies of New South Wales and Scotland",
+   "answer": 4
+ },
+ {
+   "id": 451,
+   "Question": "What is European settlement Australia?",
+   "Option1": "A: People migrated from Europe to Australia",
+   "Option2": "B: The first 11 convict ships arrived from Great Britain to Australia",
+   "Option3": "C: Australia opened its borders for trade",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 452,
+   "Question": "When were the separate colonies united into a federation of states called the Commonwealth of Australia",
+   "Option1": "A: 1900",
+   "Option2": "B: 1901",
+   "Option3": "C: 1902",
+   "Option4": "D: 1903",
+   "answer": 4
+ },
+ {
+   "id": 453,
+   "Question": "Who decides if the person is guilty or not?",
+   "Option1": "A: The court",
+   "Option2": "B: The police",
+   "Option3": "C: The government",
+   "Option4": "D: The people",
+   "answer": 4
+ },
+ {
+   "id": 454,
+   "Question": "What happens if the judge and magistrate do not make decisions that the government agrees with?",
+   "Option1": "A: Nothing the government does not have any say in it",
+   "Option2": "B: If the government disagrees it can take away their jobs",
+   "Option3": "C: The final decision is with the government so they never disagree",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 455,
+   "Question": "What is a political party?",
+   "Option1": "A: The winners of the elections",
+   "Option2": "B: A group of people who share different ideas about how a country should be governed",
+   "Option3": "C: A group of people who share same ideas about how a country should be governed",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 456,
+   "Question": "What should we keep in mind when talking about freedom of speech and expression?",
+   "Option1": "A: We must alway try to put forth our point",
+   "Option2": "B: We should listen to everyone and not respect what they say",
+   "Option3": "C: We must also respect other people‚Äôs freedom of speech and freedom of expression",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 457,
+   "Question": "What does volunteering help with?",
+   "Option1": "A: Share knowledge learn new skills and increase your integration into and sense of belonging to the Australian community",
+   "Option2": "B: Share knowledge and find your soul partner",
+   "Option3": "C: Find your soul partner and make rich friends",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 458,
+   "Question": "What responsibility do Australian citizens have if the need to defend Australia arises?",
+   "Option1": "A: Australian citizens should defend Australia should the need arise",
+   "Option2": "B: Australian citizens should not defend Australia should the need arise",
+   "Option3": "C: It is the choice of the Australian citizens to defend or not defend Australia should the need arise",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 459,
+   "Question": "How is the environment in the north of the Northern Territory?",
+   "Option1": "A: Dry",
+   "Option2": "B: Desert",
+   "Option3": "C: Tropical environment",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 460,
+   "Question": "In which institutions does the Australian Parliament divide the power of government?",
+   "Option1": "A: The legislative powers are with the Parliament",
+   "Option2": "B: The executive powers are with the Prime Minister and the Cabinet.",
+   "Option3": "C: The Judicial powers are with the Judges",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 461,
+   "Question": "What is the colour of the top half of the Australian Aboriginal Flag?",
+   "Option1": "A: Black",
+   "Option2": "B: Yellow",
+   "Option3": "C: Red",
+   "Option4": "D: White",
+   "answer": 4
+ },
+ {
+   "id": 462,
+   "Question": "What do the people do on Anzac Day?",
+   "Option1": "A: Remember the sacrifice of people of the world who served and died in wars conflicts and peacekeeping operations.",
+   "Option2": "B: Anzac Day is a solemn day when we remember the sacrifice of all Australians who served and died in wars conflicts and peacekeeping operations.",
+   "Option3": "C: Anzac Day is a solemn day when we remember the sacrifice of all Russians who served and died in wars conflicts and peacekeeping operations.",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 463,
+   "Question": "Which colour represents land on the Torres Strait Islander Flag?",
+   "Option1": "A: Brown",
+   "Option2": "B: Green",
+   "Option3": "C: Black",
+   "Option4": "D: White",
+   "answer": 4
+ },
+ {
+   "id": 464,
+   "Question": "What happened in the 1967 Referendum?",
+   "Option1": "A: 80% of Australian voted ‚ÄúYes‚Äù to allow Aboriginal peoples to be counted in the Census",
+   "Option2": "B: 85% of Australian voted ‚ÄúYes‚Äù to allow Aboriginal peoples to be counted in the Census",
+   "Option3": "C: 90% of Australian voted ‚ÄúYes‚Äù to allow Aboriginal peoples to be counted in the Census",
+   "Option4": "D: 100% of Australian voted ‚ÄúYes‚Äù to allow Aboriginal peoples to be counted in the Census",
+   "answer": 4
+ },
+ {
+   "id": 465,
+   "Question": "What do the points on the white star of the Torres Strait Islander flag represent?",
+   "Option1": "A: The island groups in the Torres Strait",
+   "Option2": "B: The island groups in the Reef nearby",
+   "Option3": "C: The island groups in the Aboriginal State",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 466,
+   "Question": "What is the Cabinet?",
+   "Option1": "A: A cupboard where all the important files are kept",
+   "Option2": "B: A desk where all the important files are kept",
+   "Option3": "C: The key decision making body of government",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 467,
+   "Question": "What should people in Australia do if they suspect their friend or neighbour is planning to commit a serious crime?",
+   "Option1": "A: They should run and inform their family members",
+   "Option2": "B: They should report it to the authorities WHEN the person has committed a crime",
+   "Option3": "C: They should report this to the Australian government as soon as possible",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 468,
+   "Question": "What role does the Prime Minister play in the election process of the Senators who can become Ministers in the Australian Government?",
+   "Option1": "A: The Prime Minister recommends Senators to become ministers in the Australian Government.",
+   "Option2": "B: The Prime Minister chooses Senators to become ministers in the Australian Government.",
+   "Option3": "C: The Prime Minister short lists Senators to become ministers in the Australian Government.",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 469,
+   "Question": "In Australia how is voting carried out?",
+   "Option1": "A: It is carried out in public in front of the candidates",
+   "Option2": "B: It is carried out by announcing the names of preferred candidates on microphone",
+   "Option3": "C: It is carried out by secret ballot",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 470,
+   "Question": "When the Governor-General signs the Bill what does it become?",
+   "Option1": "A: It becomes a law",
+   "Option2": "B: It becomes just another piece of paper",
+   "Option3": "C: It is negotiable and can be reverted if others dont agree to it",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 471,
+   "Question": "Who should accept being treated badly or being harmed?",
+   "Option1": "A: A woman/man who had a love marriage",
+   "Option2": "B: A woman/man who come from a broken family",
+   "Option3": "C: Both A and B",
+   "Option4": "D: No one",
+   "answer": 4
+ },
+ {
+   "id": 472,
+   "Question": "How did the first colony survive and develop?",
+   "Option1": "A: More and more convicts were sent over",
+   "Option2": "B: More and more free settlers came",
+   "Option3": "C: None of the above",
+   "Option4": "D: Both A and B",
+   "answer": 4
+ },
+ {
+   "id": 473,
+   "Question": "What is an Australian citizen's duty when it comes to voting?",
+   "Option1": "A: To vote in federal state or territory elections",
+   "Option2": "B: To vote in a referendum",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 474,
+   "Question": "What are the State and Territory governments primarily responsible for?",
+   "Option1": "A: Hospitals and health services",
+   "Option2": "B: Schools roads and railways and forestry police",
+   "Option3": "C: Ambulance services and public transport",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 475,
+   "Question": "Which agency is responsible for conducting federal elections and referendums?",
+   "Option1": "A: Australian High Commission (AHC)",
+   "Option2": "B: Australian Electoral Commission (AEC)",
+   "Option3": "C: Australian Engineering Commission (AEC)",
+   "Option4": "D: Australian Entertainment Commission (AEC",
+   "answer": 4
+ },
+ {
+   "id": 476,
+   "Question": "What is the capital of the Northern Territory?",
+   "Option1": "A: Perth",
+   "Option2": "B: New Castle",
+   "Option3": "C: Darwin",
+   "Option4": "D: Pittsburgh",
+   "answer": 4
+ },
+ {
+   "id": 477,
+   "Question": "Does sexual orientation have anything to do with the type of treatment you get from others?",
+   "Option1": "A: Yes",
+   "Option2": "B: No",
+   "Option3": "C: Depends in which area you live",
+   "Option4": "D: You need to hide your sexual orientation",
+   "answer": 4
+ },
+ {
+   "id": 478,
+   "Question": "Over what time period has the diversity of Australia‚Äôs population increased?",
+   "Option1": "A: Last century",
+   "Option2": "B: Last two centuries",
+   "Option3": "C: Last three centuries",
+   "Option4": "D: It was always diversified",
+   "answer": 4
+ },
+ {
+   "id": 479,
+   "Question": "Who is the Member of Parliament chosen by a government leader to be responsible for an area of government?",
+   "Option1": "A: The government minister",
+   "Option2": "B: The Chief Minister",
+   "Option3": "C: The Minister in Charge",
+   "Option4": "D: All of the above",
+   "answer": 4
+ },
+ {
+   "id": 480,
+   "Question": "What happened on 1 January 1901?",
+   "Option1": "A: The Australian Constitution came into effect and Australian colonies became independent",
+   "Option2": "B: The Australian Constitution came into effect and Australian colonies were eliminated",
+   "Option3": "C: The Australian Constitution was dissolved",
+   "Option4": "D: The Australian Constitution came into effect and Australian colonies became one",
+   "answer": 4
+ },
+ {
+   "id": 481,
+   "Question": "By voting what do Australian citizens have a say in?",
+   "Option1": "A: How to influence the decisions of the government",
+   "Option2": "B: How Australia works towards world peace",
+   "Option3": "C: How Australia is governed and contribute to its future",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 482,
+   "Question": "Who can protest against a government action or an organisation in Australia?",
+   "Option1": "A: Australians",
+   "Option2": "B: Americans",
+   "Option3": "C: Politicians",
+   "Option4": "D: Monarchs",
+   "answer": 4
+ },
+ {
+   "id": 483,
+   "Question": "What type of government does Australia have?",
+   "Option1": "A: Secular",
+   "Option2": "B: Monarch",
+   "Option3": "C: Non secular",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 484,
+   "Question": "Which House of the Australian Parliament is also known as the People‚Äôs House?",
+   "Option1": "A: The Senate",
+   "Option2": "B: The Parliament",
+   "Option3": "C: The House of Representatives",
+   "Option4": "D: Both A and C",
+   "answer": 4
+ },
+ {
+   "id": 485,
+   "Question": "Where are the state and territory governments based?",
+   "Option1": "A: In the capital cities of the states and territory government",
+   "Option2": "B: In the President‚Äôs House",
+   "Option3": "C: Anywhere they want to establish their headquarters",
+   "Option4": "D: No one knows the location",
+   "answer": 4
+ },
+ {
+   "id": 486,
+   "Question": "What does mutual respect and tolerance mean in Australia?",
+   "Option1": "A: You should always listen and do what someone wants you to do.",
+   "Option2": "B: You should not listen and respect the views and opinions of others",
+   "Option3": "C: You should listen and respect the views and opinions of others even if they are different from yours",
+   "Option4": "D: Both A And B",
+   "answer": 4
+ },
+ {
+   "id": 487,
+   "Question": "Does every mainland territory have its own capital?",
+   "Option1": "A: Yes",
+   "Option2": "B: No",
+   "Option3": "C: Some have others done",
+   "Option4": "D: Canberra is the capital of all the territories",
+   "answer": 4
+ },
+ {
+   "id": 488,
+   "Question": "What comes under domestic and family violence?",
+   "Option1": "A: Signing a divorce against the will of the partner",
+   "Option2": "B: Hitting isolating a family member from friends and family or threatening children or pets",
+   "Option3": "C: Both A and B",
+   "Option4": "D: None of the above",
+   "answer": 4
+ },
+ {
+   "id": 489,
+   "Question": "What does freedom of expression mean?",
+   "Option1": "A: People can express their views",
+   "Option2": "B: People can‚Äôt express their views",
+   "Option3": "C: People are forbidden to talk about politics",
+   "Option4": "D: Both B and C",
+   "answer": 4
+ },
+ {
+   "id": 490,
+   "Question": "What colour is the bottom half of the Australian Aboriginal Flag?",
+   "Option1": "A: Black",
+   "Option2": "B: Yellow",
+   "Option3": "C: Red",
+   "Option4": "D: White",
+   "answer": 4
+ },
+ {
+   "id": 491,
+   "Question": "When did the migration levels rise and fall in Australia?",
+   "Option1": "A: First half the of the 20th century",
+   "Option2": "B: Second half of the 20th century",
+   "Option3": "C: First half of the 21st century",
+   "Option4": "D: Second half of the 21st century",
+   "answer": 4
+ },
+ {
+   "id": 492,
+   "Question": "Who performs multiple ceremonial duties?",
+   "Option1": "A: The Governor-General",
+   "Option2": "B: The President",
+   "Option3": "C: The Prime Minister",
+   "Option4": "D: The Queen",
+   "answer": 4
+ },
+ {
+   "id": 493,
+   "Question": "Who can apply for a divorce?",
+   "Option1": "A: Either a husband or a wife may apply for a divorce to the courts if both want to end the marriage",
+   "Option2": "B: Only the wife may apply for a divorce to the courts if both want to end the marriage",
+   "Option3": "C: Either a husband or a wife may apply for a divorce to the courts even if the other spouse wishes to continue the marriage",
+   "Option4": "D: Only the husband may apply for a divorce to the courts if both want to end the marriage",
+   "answer": 4
+ },
+ {
+   "id": 494,
+   "Question": "What are the laws regarding divorce in Australia?",
+   "Option1": "A: It is not acceptable",
+   "Option2": "B: It is acceptable",
+   "Option3": "C: It is frowned upon",
+   "Option4": "D: There are no laws regarding divorce in Australia",
+   "answer": 4
+ },
+ {
+   "id": 495,
+   "Question": "How many Houses does the Australian Parliament have?",
+   "Option1": "A: 1",
+   "Option2": "B: 2",
+   "Option3": "C: 3",
+   "Option4": "D: 4",
+   "answer": 4
+ }
+]
